@@ -661,7 +661,7 @@ COCO|COQUITO HOMEMADE 750ML|COQUITO HOMEMADE 750ML||750ml|15.99|0|https://shop.o
 087236330002|DAMRAK GIN 750ML|DAMRAK GIN 750ML||750ml|21.97|0|https://shop.oceanwineandspirits.com/product/087236330002|1|Ex. tax|retail|1-3 business days||
 856065002028|DEEP EDDY  SWEET TEA 1.75L|DEEP EDDY  SWEET TEA 1.75L||750ml|24.98|1|https://shop.oceanwineandspirits.com/product/856065002028|1|Ex. tax|retail|1-3 business days||
 856065002417|DEEP EDDY LEMON 750ML|DEEP EDDY LEMON 750ML||750ml|15.98|12|https://shop.oceanwineandspirits.com/product/856065002417|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-856065002431|DEEP EDDY LEMON 1.75L|DEEP EDDY LEMON 1.75L||750ml|24.97|4|https://shop.oceanwineandspirits.com/product/856065002431|1|Ex. tax|retail|1-3 business days||
+856065002431|DEEP EDDY LEMON 1.75L|DEEP EDDY LEMON 1.75L||750ml|24.97|3|https://shop.oceanwineandspirits.com/product/856065002431|1|Ex. tax|retail|1-3 business days||
 856065002493|DEEP EDDY LEMON 375ML|DEEP EDDY LEMON 375ML||750ml|14.99|2|https://shop.oceanwineandspirits.com/product/856065002493|1|Ex. tax|retail|1-3 business days||
 856065002301|DEEP EDDY LIME 50ML|DEEP EDDY LIME 50ML||750ml|1.99|148|https://shop.oceanwineandspirits.com/product/856065002301|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856065002257|DEEP EDDY LIME 1.75ML|DEEP EDDY LIME 1.75ML||750ml|24.98|4|https://shop.oceanwineandspirits.com/product/856065002257|1|Ex. tax|retail|1-3 business days||
@@ -1554,7 +1554,7 @@ STREGIS|ST. REGIS SPARKLING WINE 750ML|ST. REGIS SPARKLING WINE 750ML||750ml|12.
 786150000014|STELLA  ARTOIS  6 PACK 12oz- 6 PACK BOTTLES|STELLA  ARTOIS  6 PACK 12oz- 6 PACK BOTTLES||750ml|11.99|-3|https://shop.oceanwineandspirits.com/product/786150000014|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 018200202490|STELLA  ARTOIS 12 PACK 12OZ - 12 PACK CANS|STELLA  ARTOIS 12 PACK 12OZ - 12 PACK CANS||750ml|20.99|-6|https://shop.oceanwineandspirits.com/product/018200202490|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 786150001707|STELLA  ARTOIS 19OZ 19OZ CAN|STELLA  ARTOIS 19OZ 19OZ CAN||750ml|3.99|0|https://shop.oceanwineandspirits.com/product/786150001707|1|Ex. tax|retail|1-3 business days||
-18200261244|STELLA  ARTOIS 25OZ|STELLA  ARTOIS 25OZ||750ml|3.99|39|https://shop.oceanwineandspirits.com/product/18200261244|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+18200261244|STELLA  ARTOIS 25OZ|STELLA  ARTOIS 25OZ||750ml|3.99|38|https://shop.oceanwineandspirits.com/product/18200261244|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 018200201899|STELLA  ARTOIS MIDNIGHT 6 PACK 12OZ BOTTLES|STELLA  ARTOIS MIDNIGHT 6 PACK 12OZ BOTTLES||750ml|14.99|0|https://shop.oceanwineandspirits.com/product/018200201899|1|Ex. tax|retail|1-3 business days||
 786150000168|STELLA 12 PACK 12oz- 12 PACK CANS|STELLA 12 PACK 12oz- 12 PACK CANS||750ml|19.99|11|https://shop.oceanwineandspirits.com/product/786150000168|1|Ex. tax|retail|1-3 business days||
 786150000144|STELLA ARTOIS 12 PACK 12oz- 12 PACK BOTTLES|STELLA ARTOIS 12 PACK 12oz- 12 PACK BOTTLES||750ml|20.99|10|https://shop.oceanwineandspirits.com/product/786150000144|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -1625,8 +1625,8 @@ STREGIS|ST. REGIS SPARKLING WINE 750ML|ST. REGIS SPARKLING WINE 750ML||750ml|12.
 812066024131|THE MACALLAN HARMONY RICH CACAO 750ML|THE MACALLAN HARMONY RICH CACAO 750ML||750ml|159.98|3|https://shop.oceanwineandspirits.com/product/812066024131|1|Ex. tax|retail|1-3 business days||
 050037597172|TIA MARIA COFFEE LIQUEUR 750ML|TIA MARIA COFFEE LIQUEUR 750ML||750ml|24.99|5|https://shop.oceanwineandspirits.com/product/050037597172|1|Ex. tax|retail|1-3 business days||
 619947000020|TITOS 750ML|TITOS 750ML||750ml|19.99|66|https://shop.oceanwineandspirits.com/product/619947000020|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-619947000037|TITOS HANDMADE VODKA 80 1.75L|TITOS HANDMADE VODKA 80 1.75L||750ml|29.99|-291|https://shop.oceanwineandspirits.com/product/619947000037|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-619947000013|TITOS HANDMADE VODKA 80 1L|TITOS HANDMADE VODKA 80 1L||750ml|27.99|52|https://shop.oceanwineandspirits.com/product/619947000013|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+619947000037|TITOS HANDMADE VODKA 80 1.75L|TITOS HANDMADE VODKA 80 1.75L||750ml|29.99|-292|https://shop.oceanwineandspirits.com/product/619947000037|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+619947000013|TITOS HANDMADE VODKA 80 1L|TITOS HANDMADE VODKA 80 1L||750ml|27.99|51|https://shop.oceanwineandspirits.com/product/619947000013|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 619947000044|TITOS HANDMADE VODKA 80 200ML|TITOS HANDMADE VODKA 80 200ML||750ml|9.99|38|https://shop.oceanwineandspirits.com/product/619947000044|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 741638452006|TRES CUATRO Y CINCO 750ML|TRES CUATRO Y CINCO 750ML||750ml|449.99|0|https://shop.oceanwineandspirits.com/product/741638452006|1|Ex. tax|retail|1-3 business days||
 080686836025|TRES GENERACIONES ANEJO 750ML|TRES GENERACIONES ANEJO 750ML||750ml|44.98|3|https://shop.oceanwineandspirits.com/product/080686836025|1|Ex. tax|retail|1-3 business days||
