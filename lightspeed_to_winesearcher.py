@@ -109,14 +109,18 @@ LOCATIONS = [
         "name": "Las Olas",
         "price_level": "Bayview",   # using Bayview's lower price for both stores
         "shop_match": "Las Olas",   # stock still isolated to Las Olas only
-        "store_url_template": "https://shop.oceanwineandspirits.com/product/{sku}",
+        # NOTE: this points to the general shop page, not per-item product
+        # pages, because Lightspeed SKUs don't map to CityHive's internal
+        # product IDs. See README for how to get real per-item URLs from
+        # CityHive support.
+        "store_url_template": "https://oceansliquor.com/shop/",
         "output_file": os.path.join(GIT_REPO_DIR, "wine_searcher_feed_las_olas.txt"),
     },
     {
         "name": "Bayview",
         "price_level": "Bayview",
         "shop_match": "Bayview",
-        "store_url_template": "https://shop.oceanwineandspirits.com/product/{sku}",
+        "store_url_template": "https://oceansliquor.com/shop/",
         "output_file": os.path.join(GIT_REPO_DIR, "wine_searcher_feed_bayview.txt"),
     },
 ]
