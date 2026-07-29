@@ -805,7 +805,7 @@ COCO|COQUITO HOMEMADE 750ML|COQUITO HOMEMADE 750ML||750ml|15.99|0|https://oceans
 88004026172|FIREBALL 1.75 PET|FIREBALL 1.75 PET||750ml|23.98|-10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 088004009281|FIREBALL 1.75L|FIREBALL 1.75L||750ml|27.99|24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088004144739|FIREBALL 200ML|FIREBALL 200ML||750ml|6.99|51|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-088004009373|FIREBALL 100ML|FIREBALL 100ML||750ml|2.99|22|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+088004009373|FIREBALL 100ML|FIREBALL 100ML||750ml|2.99|21|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 026964177190|FLOR DE CANA 4 ANEJO ORO 750ML|FLOR DE CANA 4 ANEJO ORO 750ML||750ml|16.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 026964690262|FLOR DE CANA GOLD 4 YR  ANEJO ORO 1.75L|FLOR DE CANA GOLD 4 YR  ANEJO ORO 1.75L||750ml|24.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000002701|FLOR DE CANA 12 YR 750ML|FLOR DE CANA 12 YR 750ML||750ml|36.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2511,6 +2511,8 @@ MANIFEST|JAGER MANIFEST 1L|JAGER MANIFEST 1L||750ml|0|0|https://oceansliquor.com
 210000010626|ARTENOM SELECTION 1146 ANEJO|ARTENOM SELECTION 1146 ANEJO||750ml|97.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010649|MALIBU LIME 750ML|MALIBU LIME 750ML||750ml|16.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010656|PERRIER-JOUET BELLE EPOQUE 750ML CS (Box)|PERRIER-JOUET BELLE EPOQUE 750ML CS (Box)||750ml|244.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000010657|TAPATIO BLANCO 750ML|TAPATIO BLANCO 750ML||750ml|39.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000010658|TAPATIO REPOSADO 750ML|TAPATIO REPOSADO 750ML||750ml|55.99|-9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 704228014213|ARETTE REPOSADO 1L|ARETTE REPOSADO 1L||750ml|38.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010661|1953 TEQUIL ANEJO 750|1953 TEQUIL ANEJO 750|1953|750ml|183.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080686982043|CRUZAN DARK AGED RUM 80 PET 1.75L|CRUZAN DARK AGED RUM 80 PET 1.75L||750ml|21.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
