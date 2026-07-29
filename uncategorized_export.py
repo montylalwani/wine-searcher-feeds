@@ -83,17 +83,8 @@ REFRESH_TOKEN = os.environ.get("LS_REFRESH_TOKEN", "1e821d89ba59084c8d4317bf81c5
 ACCOUNT_ID = os.environ.get("LS_ACCOUNT_ID", "290668")
 
 # Which Lightspeed Category names should be included in the feed.
-WINE_CATEGORY_NAMES = {"Beer", "Bourbon", "Box Wine", "Brandy", "Cabernet Franc",
-                       "Cabernet Sauvignon", "Champagne", "Chardonnay", "Chenin Blanc",
-                       "Cognac", "Fortified", "France", "Gin", "Greek", "Hard Seltzer",
-                       "Ice Wine", "Italian Red", "Italian White", "Italy", "Kosher",
-                       "Liqueur", "Malbec", "Merlot", "Moscato", "Pinot Blanc",
-                       "Pinot Grigio", "Pinot Noir", "Port", "Portugal", "Prosecco",
-                       "RTD", "Red Blend", "Reisling", "Rose", "Rum", "Rye", "SPAIN",
-                       "SVBLNC", "Sake", "Sancerre", "Sangria", "Sauvignon Blanc",
-                       "Scotch", "Seltzer", "Sherry", "Shiraz", "South Africa",
-                       "Syrah", "Tequila", "Vodka", "Whiskey", "White Wine",
-                       "White Zinfandel", "Zinfandel"}
+WINE_CATEGORY_NAMES = {"Wine", "Spirits", "Beer", "Champagne", "Sake", "Vodka",
+                       "Tequila", "Whiskey", "Rum", "Gin", "Cognac", "Liqueur"}
 
 # US convention: Wine-Searcher lists US merchant prices EXCLUSIVE of sales
 # tax. Per Wine-Searcher's datafeed spec, this field should read exactly
@@ -387,7 +378,22 @@ def main():
     print("Fetching items from Lightspeed Retail...")
     items = fetch_all_items(session)
     print(f"Fetched {len(items)} total items.")
+    import csv
+    uncategorized = [item for item in items if not extract_category_name(item)]
+    print(f"\nFound {len(uncategorized)} uncategorized items. Writing to CSV...")
 
+    csv_path = os.path.join(GIT_REPO_DIR, "uncategorized_items.csv")
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["SKU", "Name", "Description", "ItemID"])
+        for item in uncategorized:
+            sku = item.get("customSku") or item.get("systemSku") or item.get("itemID", "")
+            name = item.get("description", "")
+            long_desc = item.get("longDescription", "")
+            writer.writerow([sku, name, long_desc, item.get("itemID", "")])
+
+    print(f"Wrote {len(uncategorized)} uncategorized items to {csv_path}")
+    sys.exit()
     wine_items = []
     for item in items:
         category_name = extract_category_name(item)
