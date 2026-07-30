@@ -1,6 +1,6 @@
 210000000026|TITOS HANDMADE VODKA 80  375ML|TITOS HANDMADE VODKA 80  375ML||750ml|13.99|-56|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 619947000068|TITOS HANDMADE VODKA 80 50ML|TITOS HANDMADE VODKA 80 50ML||750ml|2.99|-339|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-210000000030|1800 COCO 24B|1800 COCO 24B||750ml|11.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000000030|1800 COCONUT 200ML|1800 COCONUT 200ML||750ml|11.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 811538010467|1800 MILENIO ANEJO TEQUILA 750ML CWS|1800 MILENIO ANEJO TEQUILA 750ML CWS||750ml|224.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 012354005006|19 CRIMES CALI ROSE 750ML|19 CRIMES CALI ROSE 750ML||750ml|13.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000000033|21 SEEDS TEQUILA CUCUMBER JALAPENO 750ML|21 SEEDS TEQUILA CUCUMBER JALAPENO 750ML||750ml|29.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -334,7 +334,7 @@ TAPandKEG|TAP & KEG DEPOSIT|TAP & KEG DEPOSIT||750ml|100|0|https://oceansliquor.
 083664872510|TULLAMORE DEW 12 YEAR SPECIAL RESERVE IRISH WHISKEY|TULLAMORE DEW 12 YEAR SPECIAL RESERVE IRISH WHISKEY||750ml|56.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 083664873524|TULLAMORE DEW 14 YEAR SINGLE MALT IRISH WHISKEY|TULLAMORE DEW 14 YEAR SINGLE MALT IRISH WHISKEY||750ml|59.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 793589017506|TURNBULL CABERNET SAUVIGNON NAPA 750ML|TURNBULL CABERNET SAUVIGNON NAPA 750ML||750ml|54.99|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-11111111100|TURNBULLL OAKVILLE|TURNBULLL OAKVILLE||750ml|199.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+TURNBULL|TURNBULLL OAKVILLE|TURNBULLL OAKVILLE||750ml|199.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000000766|TYPESETTER 750ML|TYPESETTER 750ML||750ml|39.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 040232555442|UNCLE NEAREST 1856 PREMIUM 750ML|UNCLE NEAREST 1856 PREMIUM 750ML||750ml|64.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 040232379123|UNCLE NEAREST 1884 SMALL BATCH  93 PROOF WHISKEY 750ML|UNCLE NEAREST 1884 SMALL BATCH  93 PROOF WHISKEY 750ML||750ml|49.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2459,7 +2459,7 @@ JACKSON SONOMA|KENDALL JACKSON ESTATE P.NOIR 750ML|KENDALL JACKSON ESTATE P.NOIR
 010986010085|KENWOOD SIX RIDGES P.NOIR RRV 750ML|KENWOOD SIX RIDGES P.NOIR RRV 750ML||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085156122158|KETEL ONE VODKA 80 375ML|KETEL ONE VODKA 80 375ML||750ml|15.99|-34|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 85156515417|KETEL ONE VODKA 80 750ML|KETEL ONE VODKA 80 750ML||750ml|25.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-85156803682|KETEL ONE VODKA 80 1.75L|KETEL ONE VODKA 80 1.75L||750ml|34.99|80|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+85156803682|KETEL ONE VODKA 80 1.75L|KETEL ONE VODKA 80 1.75L||750ml|34.99|79|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85156007509|KETEL ONE CITROEN 750ML|KETEL ONE CITROEN 750ML||750ml|25.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085156003754|KETEL ONE CITROEN 375ML|KETEL ONE CITROEN 375ML||750ml|15.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085156875009|KETEL ONE CUCUMBER MINT  BOTANICALS 750ML|KETEL ONE CUCUMBER MINT  BOTANICALS 750ML||750ml|25.99|-12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -6120,7 +6120,7 @@ JARVIS 2016|JARVIS CABARNET SAUVIGNON 750ML|JARVIS CABARNET SAUVIGNON 750ML||750
 210000009639|AUSTIN COCKTAILS RUBY RED SPK|AUSTIN COCKTAILS RUBY RED SPK||750ml|13.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000009640|DRYLANDS SAUVIGNON BLANC 750ML|DRYLANDS SAUVIGNON BLANC 750ML||750ml|18.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000009641|MY FAVE NEIGHBOR CHARD 750ML|MY FAVE NEIGHBOR CHARD 750ML||750ml|58.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000009642|MI CAMPO JALEPENO MARG 375ML|MI CAMPO JALEPENO MARG 375ML||750ml|9.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000009642|MI CAMPO JALEPENO MARG 375ML|MI CAMPO JALEPENO MARG 375ML||750ml|9.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000009643|MI CAMPO MANGO MULE|MI CAMPO MANGO MULE||750ml|14.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000009644|UNSHACKLED SPARKLING|UNSHACKLED SPARKLING||750ml|21.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000009645|UNSHACKLED SPARK ROSE|UNSHACKLED SPARK ROSE||750ml|21.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
