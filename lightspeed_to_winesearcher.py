@@ -85,7 +85,7 @@ ACCOUNT_ID = os.environ.get("LS_ACCOUNT_ID", "290668")
 # Which Lightspeed Category names should be included in the feed.
 WINE_CATEGORY_NAMES = {"Beer", "Bourbon", "Box Wine", "Brandy", "Cabernet Franc",
                        "Cabernet Sauvignon", "Champagne", "Chardonnay", "Chenin Blanc",
-                       "Cognac", "Fortified", "France", "Gin", "Greek", "Hard Seltzer",
+                       "Cognac", "DELTA8", "THC", "Fortified", "France", "Gin", "Greek", "Hard Seltzer",
                        "Ice Wine", "Italian Red", "Italian White", "Italy", "Kosher",
                        "Liqueur", "Malbec", "Merlot", "Moscato", "Pinot Blanc",
                        "Pinot Grigio", "Pinot Noir", "Port", "Portugal", "Prosecco",
