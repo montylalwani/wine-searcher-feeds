@@ -1790,7 +1790,7 @@ SKU000013|D66 GRENACHE 750ML FRANCE-LANGUEDOC|D66 GRENACHE 750ML FRANCE-LANGUEDO
 085000433980|FAUX PAS BRTLET PEAR VDKA MULE 4PK 250ML CANS|FAUX PAS BRTLET PEAR VDKA MULE 4PK 250ML CANS||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085000433997|FAUX PAS GRPFT ORNGE TEQLA SDA 4PK 250ML CANS|FAUX PAS GRPFT ORNGE TEQLA SDA 4PK 250ML CANS||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085000434000|FAUX PAS SPICY MANGO MARGARITA 4PK|FAUX PAS SPICY MANGO MARGARITA 4PK||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-739958974001|COPPOLA CLARET 750ML|COPPOLA CLARET 750ML||750ml|17.99|26|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+739958974001|COPPOLA CLARET 750ML|COPPOLA CLARET 750ML||750ml|17.99|25|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 898563002629|FERNET BRANCA 750ML|FERNET BRANCA 750ML||750ml|35.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 8006290801152|FERRARELLE SPARKLING 750ML|FERRARELLE SPARKLING 750ML||750ml|4.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 742651135198|FERRARI-CARANO CABERNET SAUVIGNON 750ML|FERRARI-CARANO CABERNET SAUVIGNON 750ML||750ml|31.99|14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -5835,7 +5835,7 @@ LEONETTI CAB|LEONETTI CABERNET SAUVIGNON 2020 WALLA WALLA 750ML CS|LEONETTI CABE
 031259008936|YELLOWTAIL CHARD 1.5|YELLOWTAIL CHARD 1.5||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 031259009230|YELLOWTAIL MERLOT 1.5|YELLOWTAIL MERLOT 1.5||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 031259009728|YELLOW TAIL PINOT GRIGIO 1.5|YELLOW TAIL PINOT GRIGIO 1.5||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-635985802136|white claw mango 19.20z|white claw mango 19.20z||750ml|3.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+635985802136|white claw mango 19.20z|white claw mango 19.20z||750ml|3.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 736920212055|NEON BEER HUG 19OZ|NEON BEER HUG 19OZ||750ml|3.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008947|MANGO SHOTTA 50ML 10PK|MANGO SHOTTA 50ML 10PK||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008949|BREAD & BUTTER PINOT NOIR 750ML|BREAD & BUTTER PINOT NOIR 750ML||750ml|13.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
