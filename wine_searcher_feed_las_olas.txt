@@ -911,7 +911,7 @@ SKU000113|BARON de L 750ml FRANCE|BARON de L 750ml FRANCE||750ml|99.97|0|https:/
 210000001507|Bota Box Moscato 500ML|Bota Box Moscato 500ML||750ml|4.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001508|BOTA BOX NIGHTHAWK 3L|BOTA BOX NIGHTHAWK 3L||750ml|19.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 82242013253|BOTA BOX PINOT GRIGIO 3L|BOTA BOX PINOT GRIGIO 3L||750ml|19.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-82242013314|BOTA BOX PINOT GRIGIO 500ML|BOTA BOX PINOT GRIGIO 500ML||750ml|4.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+82242013314|BOTA BOX PINOT GRIGIO 500ML|BOTA BOX PINOT GRIGIO 500ML||750ml|4.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001511|BOTA BOX PINOT NOIR 3L|BOTA BOX PINOT NOIR 3L||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001512|BOTA BOX REDVOLUTION 3L|BOTA BOX REDVOLUTION 3L||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001513|BOTA BOX REDVOLUTION 500ML|BOTA BOX REDVOLUTION 500ML||750ml|4.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -1369,7 +1369,7 @@ COCO|COQUITO HOMEMADE 750ML|COQUITO HOMEMADE 750ML||750ml|15.99|0|https://oceans
 8410113006455|CORDILLERA RESERVA CARMENERE 750ML|CORDILLERA RESERVA CARMENERE 750ML||750ml|15.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8410113006479|MIGUEL TORRES CORDILLERA RESERVA 2020 ESPECIAL CHARDONNAY 750ML|MIGUEL TORRES CORDILLERA RESERVA 2020 ESPECIAL CHARDONNAY 750ML|2020|750ml|15.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 872281000334|CORNARO PINOT GRIGIO 1.5L|CORNARO PINOT GRIGIO 1.5L||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-80660956053|CORONA EXTRA 6 PACK 12OZ BOTTLES|CORONA EXTRA 6 PACK 12OZ BOTTLES||750ml|11.99|-30|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+80660956053|CORONA EXTRA 6 PACK 12OZ BOTTLES|CORONA EXTRA 6 PACK 12OZ BOTTLES||750ml|11.99|-31|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 80660956435|CORONA 24 OZ 24OZ CAN|CORONA 24 OZ 24OZ CAN||750ml|3.99|-4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 80660956954|CORONA EXTRA  12 PACK 12 OZ CANS|CORONA EXTRA  12 PACK 12 OZ CANS||750ml|21.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 080660956152|CORONA EXTRA 12 PACK 12 OZ BOTTLES|CORONA EXTRA 12 PACK 12 OZ BOTTLES||750ml|21.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -1392,7 +1392,7 @@ COCO|COQUITO HOMEMADE 750ML|COQUITO HOMEMADE 750ML||750ml|15.99|0|https://oceans
 891006000732|CORVO PINOT GRIGIO 750ML|CORVO PINOT GRIGIO 750ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000002104|COURVOISIER VS 375ML|COURVOISIER VS 375ML||750ml|17.99|-21|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 80686961048|COURVOISIER COGNAC VS 80 750ML|COURVOISIER COGNAC VS 80 750ML||750ml|26.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-080686961079|COURVOISIER COGNAC VS 80 50ML|COURVOISIER COGNAC VS 80 50ML||750ml|4.99|-6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+080686961079|COURVOISIER COGNAC VS 80 50ML|COURVOISIER COGNAC VS 80 50ML||750ml|4.99|-7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 080686961024|COURVOISIER COGNAC VS 80 1.75L|COURVOISIER COGNAC VS 80 1.75L||750ml|59.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 080686961109|COURVOISIER COGNAC VS 80 200ML|COURVOISIER COGNAC VS 80 200ML||750ml|11.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 80686962045|COURVOISIER VSOP 750ML|COURVOISIER VSOP 750ML||750ml|37.98|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2651,7 +2651,7 @@ LONGMORN|LONGMORN 16YR. 750ML 96 PROOF|LONGMORN 16YR. 750ML 96 PROOF||750ml|134.
 708828940118|LOST HARBOUR VODKA 750ML|LOST HARBOUR VODKA 750ML||750ml|18.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 604174000608|LOUIS BERNARD GIGONDAS 750ML FRANCE-GIGONDAS|LOUIS BERNARD GIGONDAS 750ML FRANCE-GIGONDAS||750ml|24.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 026861102974|LOUIS JADOT BOURGOGNE PINOT NOIR  FRANCE 750ML|LOUIS JADOT BOURGOGNE PINOT NOIR  FRANCE 750ML||750ml|19.99|-13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-084692433148|LOUIS JADOT CHABLIS 750ML|LOUIS JADOT CHABLIS 750ML||750ml|24.99|14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+084692433148|LOUIS JADOT CHABLIS 750ML|LOUIS JADOT CHABLIS 750ML||750ml|24.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000003708|LOUIS JADOT MACON-VILLAGES CHARDONNAY  750ML|LOUIS JADOT MACON-VILLAGES CHARDONNAY  750ML||750ml|15.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 026861100642|LOUIS LATOUR BOURGOGNE CUVEE 750ML|LOUIS LATOUR BOURGOGNE CUVEE 750ML||750ml|36.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085000013274|LOUIS MARTINI ALEXANDER C SAUV 750ML ALEXANDER VALLEY|LOUIS MARTINI ALEXANDER C SAUV 750ML ALEXANDER VALLEY||750ml|32.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2779,7 +2779,7 @@ LULUMARG|LUCIEN LURTON MARGAUX 750ML ITALY|LUCIEN LURTON MARGAUX 750ML ITALY||75
 011034410079|MARTINI & ROSSI  VERMOUTH SWEET 375ML|MARTINI & ROSSI  VERMOUTH SWEET 375ML||750ml|7.99|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 011034503825|MARTNI ROSSI ROSE 750ML|MARTNI ROSSI ROSE 750ML||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 SKU000021|MASI CAMPOFIORIN 2019 750ML|MASI CAMPOFIORIN 2019 750ML|2019|750ml|19.99|16|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-815132010076|MASI COSTASERA AMARONE 750ML|MASI COSTASERA AMARONE 750ML||750ml|59.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+815132010076|MASI COSTASERA AMARONE 750ML|MASI COSTASERA AMARONE 750ML||750ml|59.98|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 815132010052|MASI MASIANCO PINOT GRIGIO 750ML|MASI MASIANCO PINOT GRIGIO 750ML||750ml|13.99|16|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000001974|MASO CANALI TRENTINO 750ML ITALY|MASO CANALI TRENTINO 750ML ITALY||750ml|17.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 085000016558|MASO CANALI TRENTINO PINOT GRIGIO 750ML|MASO CANALI TRENTINO PINOT GRIGIO 750ML||750ml|17.99|49|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2994,7 +2994,7 @@ MOREY 2019|MOREY-SAINT-DENIS 2019 BORGOGNE 750ML|MOREY-SAINT-DENIS 2019 BORGOGNE
 085000028308|NEW AMSTERDAM STRATOSPHERE DRY 1.75L|NEW AMSTERDAM STRATOSPHERE DRY 1.75L||750ml|27.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 85000014318|NEW AMSTERDAM STRATUSPHERE GIN 750ML|NEW AMSTERDAM STRATUSPHERE GIN 750ML||750ml|13.98|-19|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8540209|NEW AMSTERDAM STRATUS GIN 50ML|NEW AMSTERDAM STRATUS GIN 50ML||750ml|1.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-8588005|NEW AMSTERDAM VODKA 80 50ML|NEW AMSTERDAM VODKA 80 50ML||750ml|1.99|-613|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+8588005|NEW AMSTERDAM VODKA 80 50ML|NEW AMSTERDAM VODKA 80 50ML||750ml|1.99|-617|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000019498|NEW AMSTERDAM VODKA 80 750ML|NEW AMSTERDAM VODKA 80 750ML||750ml|12.98|-18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000019511|NEW AMSTERDAM VODKA 80 1.75L|NEW AMSTERDAM VODKA 80 1.75L||750ml|18.98|-24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 085000030943|NEW AMSTERDAM WATERMELON 1.75L|NEW AMSTERDAM WATERMELON 1.75L||750ml|18.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3746,7 +3746,7 @@ HT1123|STAGLIN SALUS CHARDONNAY 750ML|STAGLIN SALUS CHARDONNAY 750ML||750ml|49.9
 617768113752|SVEDKA VODKA 80 PET 375ML|SVEDKA VODKA 80 PET 375ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 617768111758|SVEDKA VODKA 80 750ML|SVEDKA VODKA 80 750ML||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 617768111109|SVEDKA VODKA 80  1L|SVEDKA VODKA 80  1L||750ml|18.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-088004070946|SVEDKA VODKA 80 1.75L|SVEDKA VODKA 80 1.75L||750ml|17.99|-89|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+088004070946|SVEDKA VODKA 80 1.75L|SVEDKA VODKA 80 1.75L||750ml|17.99|-90|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 617768261354|SVEDKA BLK CHERRY LIME 4 PACK|SVEDKA BLK CHERRY LIME 4 PACK||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 617768201756|SVEDKA BLUE RASPBERRY 750ML|SVEDKA BLUE RASPBERRY 750ML||750ml|10.99|-37|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 617768201176|SVEDKA BLUE RASPBERRY 1.75L|SVEDKA BLUE RASPBERRY 1.75L||750ml|17.99|-8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3814,7 +3814,7 @@ SKU000053|TENSLEY SYRAH COLSON VINEYARD 750ML|TENSLEY SYRAH COLSON VINEYARD 750M
 085592121067|TEQUILA ROSE STRAWBERRY CREAM 375ML|TEQUILA ROSE STRAWBERRY CREAM 375ML||750ml|14.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 898627001315|TEQUILA OCHO TEQ REPOSADO 80 750ML|TEQUILA OCHO TEQ REPOSADO 80 750ML||750ml|57.99|-37|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 850015640124|TEREMANA  ANEJO 750 ML|TEREMANA  ANEJO 750 ML||750ml|39.98|-3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-850015640001|TEREMANA TEQ BLANCO SB 80 375ML|TEREMANA TEQ BLANCO SB 80 375ML||750ml|19.99|-32|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+850015640001|TEREMANA TEQ BLANCO SB 80 375ML|TEREMANA TEQ BLANCO SB 80 375ML||750ml|19.99|-33|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 850015640025|TEREMANA TEQ BLANCO SB 80 750ML|TEREMANA TEQ BLANCO SB 80 750ML||750ml|29.99|-65|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 850015640032|TEREMANA TEQ REPOSADO SB 80 750ML|TEREMANA TEQ REPOSADO SB 80 750ML||750ml|32.99|-111|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 086891084657|TERLATO PINOT GRIGIO 750ML|TERLATO PINOT GRIGIO 750ML||750ml|19.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
