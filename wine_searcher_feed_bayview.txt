@@ -2878,7 +2878,7 @@ MIAMEGA|MIA MEGA MIX 6 PACK 12OZ - 6 PACK CANS|MIA MEGA MIX 6 PACK 12OZ - 6 PACK
 03435418|MILLER LITE SINGLE 12OZ|MILLER LITE SINGLE 12OZ||750ml|1.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 856095000018|MINER CHARDONNAY 750ML|MINER CHARDONNAY 750ML||750ml|37.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 852165006690|MINUTY ROSE 1.5L|MINUTY ROSE 1.5L||750ml|49.99|-3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-852165006553|MINUTY ROSE 750ML|MINUTY ROSE 750ML||750ml|19.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+852165006553|MINUTY ROSE 750ML|MINUTY ROSE 750ML||750ml|19.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 852165006645|MINUTY ROSE ET OR 750ML|MINUTY ROSE ET OR 750ML||750ml|34.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 727760502031|MIONETTO ORGANIC PROSECCO 750ML ORGANIC|MIONETTO ORGANIC PROSECCO 750ML ORGANIC||750ml|13.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 816253012406|MIONETTO PRESTIGE ROSE 750ML|MIONETTO PRESTIGE ROSE 750ML||750ml|14.99|-4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3222,7 +3222,7 @@ PENCERANCHCHARD|PENCH RANCE CHARD STA RTA HILL 750ML 2016|PENCH RANCE CHARD STA 
 667505000463|PIPER-HEIDSIECK 750ML|PIPER-HEIDSIECK 750ML||750ml|57.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 877397005266|PIPER SONOMA BRUT 750ML|PIPER SONOMA BRUT 750ML||750ml|19.98|-5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 087236010010|PIPER SONOMA BRUT ROSE 750ML|PIPER SONOMA BRUT ROSE 750ML||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-088004012748|PLATINUM 7x  PET 750ML|PLATINUM 7x  PET 750ML||750ml|10.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+088004012748|PLATINUM 7x  PET 750ML|PLATINUM 7x  PET 750ML||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 088004012762|PLATINUM 7X  375ML|PLATINUM 7X  375ML||750ml|7.99|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 88004030377|PLATINUM VODKA 10X 750ML|PLATINUM VODKA 10X 750ML||750ml|12.99|14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 088004030353|PLATINUM 10X 1.75|PLATINUM 10X 1.75||750ml|19.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -5532,7 +5532,7 @@ MANIFEST|JAGER MANIFEST 1L|JAGER MANIFEST 1L||750ml|0|0|https://oceansliquor.com
 210000008478|Altos Olmeca Anejo 750|Altos Olmeca Anejo 750||750ml|35.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008480|GREY GOOSE STRAWBERRY LEMONGRASS KIT|GREY GOOSE STRAWBERRY LEMONGRASS KIT||750ml|27.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008481|PATRON TEQUILA SILVER EL CIELO 80 700ML|PATRON TEQUILA SILVER EL CIELO 80 700ML||750ml|129.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000008482|MEZZACORONA PINOT GRIGIO 1.5L|MEZZACORONA PINOT GRIGIO 1.5L||750ml|13.99|28|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+210000008482|MEZZACORONA PINOT GRIGIO 1.5L|MEZZACORONA PINOT GRIGIO 1.5L||750ml|13.99|27|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000008484|BELLE GLOS CLARK & TELEPHONE PINOT NOIR  1.5L|BELLE GLOS CLARK & TELEPHONE PINOT NOIR  1.5L||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008485|JACK DANIELS SOUR MASH MCLAREN 1L|JACK DANIELS SOUR MASH MCLAREN 1L||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 806664|Pacifico Single Bottle|Pacifico Single Bottle||750ml|2.5|-5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7895,8 +7895,8 @@ SIX STACK|MARKHAM SIX STACK CAB SAUV 750ML|MARKHAM SIX STACK CAB SAUV 750ML||750
 210000013087|CUTWATER MANGO SINGLE 12oz|CUTWATER MANGO SINGLE 12oz||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013089|EL DORADO 25 YEAR 750ML|EL DORADO 25 YEAR 750ML||750ml|599.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013090|SUPER LYTE BLUE CHILL VODKA ADE 19.2OZ|SUPER LYTE BLUE CHILL VODKA ADE 19.2OZ||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000013091|EL MEXICANO TEQ BLANCO 80 750ML|EL MEXICANO TEQ BLANCO 80 750ML||750ml|0|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000013092|EL MEXICANO TEQ REPOSADO 80|EL MEXICANO TEQ REPOSADO 80||750ml|0|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000013091|EL MEXICANO TEQ BLANCO 80 750ML|EL MEXICANO TEQ BLANCO 80 750ML||750ml|37.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000013092|EL MEXICANO TEQ REPOSADO 80 750ML|EL MEXICANO TEQ REPOSADO 80 750ML||750ml|39.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013093|TEQUIO CKTL PALOMA BL 13.9 CAN 4P|TEQUIO CKTL PALOMA BL 13.9 CAN 4P||750ml|0|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013094|TEQUIO CTKL TEQ BL SODA 10 CAN4P|TEQUIO CTKL TEQ BL SODA 10 CAN4P||750ml|0|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013095|TEQUIO CTKL TEQ REPO SODA 10 CAN4P|TEQUIO CTKL TEQ REPO SODA 10 CAN4P||750ml|0|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
