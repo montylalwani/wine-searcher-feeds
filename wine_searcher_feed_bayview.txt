@@ -676,7 +676,7 @@ AUANCHAT|AUGUSTE ANTONIN CHATEAUNEUF 750ML ITALY|AUGUSTE ANTONIN CHATEAUNEUF 750
 080516044248|BANFI BRUNELLO 2018 DI MONTALCINO 750ML ITALY-TUSCANY|BANFI BRUNELLO 2018 DI MONTALCINO 750ML ITALY-TUSCANY|2018|750ml|69.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 80516160856|BANFI CHIANTI CLASSICO 2021 750ML|BANFI CHIANTI CLASSICO 2021 750ML|2021|750ml|13.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001212|BANFI CHIANTI 2019 RESERVA 750ML|BANFI CHIANTI 2019 RESERVA 750ML|2019|750ml|19.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-80516406947|BANFI CHIANTI SUPERIORE 750ML|BANFI CHIANTI SUPERIORE 750ML||750ml|12.99|-3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+80516406947|BANFI CHIANTI SUPERIORE 750ML|BANFI CHIANTI SUPERIORE 750ML||750ml|12.99|-4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 80516049045|BANFI SAN ANGELO PINOT GRIGIO 750ML|BANFI SAN ANGELO PINOT GRIGIO 750ML||750ml|18.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000001219|BANSHEE PINOT NOIR 750ML|BANSHEE PINOT NOIR 750ML||750ml|21.99|24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000001220|BARDSTOWN FUSION SERIES 750ML|BARDSTOWN FUSION SERIES 750ML||750ml|77.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2459,7 +2459,7 @@ JACKSON SONOMA|KENDALL JACKSON ESTATE P.NOIR 750ML|KENDALL JACKSON ESTATE P.NOIR
 081584002154|KENDALL JACKSON PINOT GRIS 750ML|KENDALL JACKSON PINOT GRIS 750ML||750ml|13.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081584131519|KENDALL JACKSON PINOT NOIR 750ML|KENDALL JACKSON PINOT NOIR 750ML||750ml|19.98|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081584000839|KENDALL JACKSON VINTERS P.NOIR 750ML|KENDALL JACKSON VINTERS P.NOIR 750ML||750ml|19.97|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-081584013105|KENDALL JACKSON VR CHARDONNAY 750ML|KENDALL JACKSON VR CHARDONNAY 750ML||750ml|14.99|75|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+081584013105|KENDALL JACKSON VR CHARDONNAY 750ML|KENDALL JACKSON VR CHARDONNAY 750ML||750ml|14.99|74|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 857361007007|KENTUCKY OWL BATCH #12 750mL BOURBON|KENTUCKY OWL BATCH #12 750mL BOURBON||750ml|349.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 857361007052|KENTUCKY OWL CONFISCATED BOURB 750ML|KENTUCKY OWL CONFISCATED BOURB 750ML||750ml|112.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 857361007014|KENTUCKY OWL RYE 750ML|KENTUCKY OWL RYE 750ML||750ml|149.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -4455,7 +4455,7 @@ JOSEPHBURRIER|POUILLY-FUISSE 2016 CHATEAU DE BEAUREGARD|POUILLY-FUISSE 2016 CHAT
 040951175112|ST SUPERY CABERNET  SAUVIGNON NAPA 2018 750 ML|ST SUPERY CABERNET  SAUVIGNON NAPA 2018 750 ML|2018|750ml|49.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 089819723324|STAGS LEAP SAUVIGNON BLANC NAPA 750ML|STAGS LEAP SAUVIGNON BLANC NAPA 750ML||750ml|26.99|22|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 SKU000186|STELLA  KEG KEG|STELLA  KEG KEG||750ml|180|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-018200203138|STELLA ARTOIS LIBERTE NON ALCOHOLIC 6PK BTLS|STELLA ARTOIS LIBERTE NON ALCOHOLIC 6PK BTLS||750ml|11.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+018200203138|STELLA ARTOIS LIBERTE NON ALCOHOLIC 6PK BTLS|STELLA ARTOIS LIBERTE NON ALCOHOLIC 6PK BTLS||750ml|11.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 018200261213|STELLAS  CAN SINGLE|STELLAS  CAN SINGLE||750ml|1.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088692865992|STERLING NAPA PLATINUM  CABERNET SAUVIGNON 750ML|STERLING NAPA PLATINUM  CABERNET SAUVIGNON 750ML||750ml|45.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 811751020007|STOLI 80 750ML|STOLI 80 750ML||750ml|19.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
