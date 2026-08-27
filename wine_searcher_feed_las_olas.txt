@@ -121,7 +121,7 @@
 3760107310712|DAVIDOFF COGNAC VS|DAVIDOFF COGNAC VS||750ml|37.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 3251370010046|DAVIDOFF COGNAC VSOP|DAVIDOFF COGNAC VSOP||750ml|47.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 894098002202|DE LUZE VS COGNAC 750ML|DE LUZE VS COGNAC 750ML||750ml|29.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-856065002073|DEEP EDDY 80 50ML|DEEP EDDY 80 50ML||750ml|1.99|-116|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+856065002073|DEEP EDDY 80 50ML|DEEP EDDY 80 50ML||750ml|1.99|-117|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856065002745|DEEP EDDY LEMON 100ML|DEEP EDDY LEMON 100ML||750ml|2.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000000258|SMIRNOFF PEACH LEMONADE 50ML|SMIRNOFF PEACH LEMONADE 50ML||750ml|1.49|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 618398080384|DEL MAGUEY CHIPHIAPA 750ML|DEL MAGUEY CHIPHIAPA 750ML||750ml|74.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -1127,7 +1127,7 @@ CARBLCHAR|CARTE BLANCHE CHARD SONOMA 750ML|CARTE BLANCHE CHARD SONOMA 750ML||750
 856724006121|CASAMIGOS TEQUILA BLANCO 375ML|CASAMIGOS TEQUILA BLANCO 375ML||750ml|24.99|-48|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856724006220|CASAMIGOS TEQUILA REPOSADO 80 375ML|CASAMIGOS TEQUILA REPOSADO 80 375ML||750ml|29.99|-48|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856724006237|CASAMIGOS REPOSADO 80 50ML|CASAMIGOS REPOSADO 80 50ML||750ml|7.99|-107|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-856724006213|CASAMIGOS TEQUILA REPOSADO 80 750ML|CASAMIGOS TEQUILA REPOSADO 80 750ML||750ml|44.99|-16|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+856724006213|CASAMIGOS TEQUILA REPOSADO 80 750ML|CASAMIGOS TEQUILA REPOSADO 80 750ML||750ml|44.99|-17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856724006244|CASAMIGOS REPOSADO 1.75L|CASAMIGOS REPOSADO 1.75L||750ml|77.99|-14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856724006206|CASAMIGOS TEQUILA REPOSADO 80 1L|CASAMIGOS TEQUILA REPOSADO 80 1L||750ml|77.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 748789900035|CASANOVA BRUNELLO 750ML ITALY-TUSCANY|CASANOVA BRUNELLO 750ML ITALY-TUSCANY||750ml|99.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -1424,11 +1424,11 @@ COCO|COQUITO HOMEMADE 750ML|COQUITO HOMEMADE 750ML||750ml|15.99|0|https://oceans
 082000771593|CROWN ROYAL REGAL APPLE 70 1.75L|CROWN ROYAL REGAL APPLE 70 1.75L||750ml|49.99|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8719902|CROWN ROYAL CANADIAN 80 PET 50ML|CROWN ROYAL CANADIAN 80 PET 50ML||750ml|3.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 082000771562|CROWN ROYAL REGAL APPLE 70 750ML|CROWN ROYAL REGAL APPLE 70 750ML||750ml|26.99|36|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-082000771548|CROWN ROYAL REGAL APPLE 70 200ML|CROWN ROYAL REGAL APPLE 70 200ML||750ml|10.99|106|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+082000771548|CROWN ROYAL REGAL APPLE 70 200ML|CROWN ROYAL REGAL APPLE 70 200ML||750ml|10.99|105|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 82000771555|CROWN ROYAL REGAL APPLE 70 375ML|CROWN ROYAL REGAL APPLE 70 375ML||750ml|15.99|-13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 082000750437|CROWN ROYAL BLACK 750ML|CROWN ROYAL BLACK 750ML||750ml|26.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 082000750451|CROWN ROYAL BLACK 1.75 L|CROWN ROYAL BLACK 1.75 L||750ml|52.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-082000782919|CROWN ROYAL PEACH 70 750ML|CROWN ROYAL PEACH 70 750ML||750ml|26.99|-3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+082000782919|CROWN ROYAL PEACH 70 750ML|CROWN ROYAL PEACH 70 750ML||750ml|26.99|-4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 087000201330|CROWN ROYAL RESERVE 750ML|CROWN ROYAL RESERVE 750ML||750ml|43.98|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 082000773375|CROWN ROYAL RYE 750ML|CROWN ROYAL RYE 750ML||750ml|26.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 082000783978|CROWN ROYAL SALTED CARAMEL 750ML|CROWN ROYAL SALTED CARAMEL 750ML||750ml|27.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -1633,7 +1633,7 @@ SKU000013|D66 GRENACHE 750ML FRANCE-LANGUEDOC|D66 GRENACHE 750ML FRANCE-LANGUEDO
 674545000599|DON JULIO TEQUILA BLANCO 80 375ML|DON JULIO TEQUILA BLANCO 80 375ML||750ml|26.99|-23|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 674545000001|DON JULIO TEQUILA BLANCO 80 750ML|DON JULIO TEQUILA BLANCO 80 750ML||750ml|49.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 674545000629|DON JULIO TEQUILA BLANCO 80 1.75L|DON JULIO TEQUILA BLANCO 80 1.75L||750ml|86.99|-4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-674545000414|DON JULIO TEQUILA REPOSADO 80 750ML|DON JULIO TEQUILA REPOSADO 80 750ML||750ml|54.99|-143|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+674545000414|DON JULIO TEQUILA REPOSADO 80 750ML|DON JULIO TEQUILA REPOSADO 80 750ML||750ml|54.99|-144|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 674545000605|DON JULIO REPO 375ML|DON JULIO REPO 375ML||750ml|32.99|-25|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 674545000025|DON JULIO TEQUILA BLANCO 80 50ML|DON JULIO TEQUILA BLANCO 80 50ML||750ml|5.99|-312|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 082301750907|DON Q COCO 750ML|DON Q COCO 750ML||750ml|12.97|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2844,7 +2844,7 @@ MIAMEGA|MIA MEGA MIX 6 PACK 12OZ - 6 PACK CANS|MIA MEGA MIX 6 PACK 12OZ - 6 PACK
 018200967283|MICHELOB ULTRA 24 PACK|MICHELOB ULTRA 24 PACK||750ml|21.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 018200059902|MICHELOB ULTRA 12 PACK 12OZ BOTTLES|MICHELOB ULTRA 12 PACK 12OZ BOTTLES||750ml|19.99|18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 018200069918|MICHELOB ULTRA 12 PACK 12oz- 12 PACK CANS|MICHELOB ULTRA 12 PACK 12oz- 12 PACK CANS||750ml|19.99|-16|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-18200059896|MICHELOB ULTRA 6 PACK 12oz- 6 PACK BOTTLES|MICHELOB ULTRA 6 PACK 12oz- 6 PACK BOTTLES||750ml|11.99|-9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+18200059896|MICHELOB ULTRA 6 PACK 12oz- 6 PACK BOTTLES|MICHELOB ULTRA 6 PACK 12oz- 6 PACK BOTTLES||750ml|11.99|-10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 039383005944|MICHTERS US1 AMERICAN WHISKY 750ML|MICHTERS US1 AMERICAN WHISKY 750ML||750ml|44.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 039383007184|MICHTERS SMALL BATCH BOURBON 750ML|MICHTERS SMALL BATCH BOURBON 750ML||750ml|44.99|-8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 039383006507|MICHTERS RYE 750ML|MICHTERS RYE 750ML||750ml|44.99|-11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2862,7 +2862,7 @@ MIAMEGA|MIA MEGA MIX 6 PACK 12OZ - 6 PACK CANS|MIA MEGA MIX 6 PACK 12OZ - 6 PACK
 083664869008|MILAGRO ANEJO SELECT TEQUILA 750ML|MILAGRO ANEJO SELECT TEQUILA 750ML||750ml|61.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 083664868995|MILAGRO REPOSADO BARREL  SELECT 750ML|MILAGRO REPOSADO BARREL  SELECT 750ML||750ml|49.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 83664868940|MILAGRO REPOSADO 750ML|MILAGRO REPOSADO 750ML||750ml|28.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-83664868933|MILAGRO REPOSADO TEQUILA 1.75L|MILAGRO REPOSADO TEQUILA 1.75L||750ml|48.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+83664868933|MILAGRO REPOSADO TEQUILA 1.75L|MILAGRO REPOSADO TEQUILA 1.75L||750ml|48.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 083664868919|MILAGRO SILVER TEQUILA 750ML|MILAGRO SILVER TEQUILA 750ML||750ml|26.99|-14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 83664868902|MILAGRO SILVER TEQUILA 1.75L|MILAGRO SILVER TEQUILA 1.75L||750ml|46.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 083664869640|MILAGRO SILVER BARREL SELECT 750ML|MILAGRO SILVER BARREL SELECT 750ML||750ml|42.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2905,7 +2905,7 @@ MOCKINGBIRD|MOCKINGBIRD 2018 750ML CS|MOCKINGBIRD 2018 750ML CS|2018|750ml|240|0
 9336975000303|MOLLY DOOKER BLUE EYED BOY 750ML SHIRAZ|MOLLY DOOKER BLUE EYED BOY 750ML SHIRAZ||750ml|62.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 9336975000051|MOLLY DOOKER BOXER SHIRAZ 750ML|MOLLY DOOKER BOXER SHIRAZ 750ML||750ml|29.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 9336975000433|MOLLY DOOKER CABERNET SAUVIGNON 750ML|MOLLY DOOKER CABERNET SAUVIGNON 750ML||750ml|34.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-891278002458|MONACO BLUE CRUSH 12OZ CAN|MONACO BLUE CRUSH 12OZ CAN||750ml|3.99|31|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+891278002458|MONACO BLUE CRUSH 12OZ CAN|MONACO BLUE CRUSH 12OZ CAN||750ml|3.99|29|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 891278002298|MONACO CITRUS RUSH 12OZ CAN|MONACO CITRUS RUSH 12OZ CAN||750ml|3.99|31|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 891278002335|MONACO MANGO PEACH 12OZ CAN|MONACO MANGO PEACH 12OZ CAN||750ml|3.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 891278002373|MONACO TEQUILA LIME CRUSH 12OZ CAN|MONACO TEQUILA LIME CRUSH 12OZ CAN||750ml|3.99|70|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -3857,7 +3857,7 @@ SKU000053|TENSLEY SYRAH COLSON VINEYARD 750ML|TENSLEY SYRAH COLSON VINEYARD 750M
 850003799018|TIP TOP MANHATTAN 100mL CAN|TIP TOP MANHATTAN 100mL CAN||750ml|5.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 850003799025|TIP TOP NEGRONI 100mL CAN|TIP TOP NEGRONI 100mL CAN||750ml|5.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 619947000020|TITOS 750ML|TITOS 750ML||750ml|22.99|-398|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-619947000037|TITOS HANDMADE VODKA 80 1.75L|TITOS HANDMADE VODKA 80 1.75L||750ml|29.99|-292|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+619947000037|TITOS HANDMADE VODKA 80 1.75L|TITOS HANDMADE VODKA 80 1.75L||750ml|29.99|-293|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 619947000013|TITOS HANDMADE VODKA 80 1L|TITOS HANDMADE VODKA 80 1L||750ml|27.99|-252|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 619947000044|TITOS HANDMADE VODKA 80 200ML|TITOS HANDMADE VODKA 80 200ML||750ml|9.99|-160|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 747505001698|TITUS CABERNET SAUVIGNON 750ML|TITUS CABERNET SAUVIGNON 750ML||750ml|54.99|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -3992,7 +3992,7 @@ HT1213|VIETTI BAROLO CASTIGLIONE 750ML|VIETTI BAROLO CASTIGLIONE 750ML||750ml|64
 VOLNAY|VOLNAY LES CHAMPANS 750ML FRANCE-BORGOGNE|VOLNAY LES CHAMPANS 750ML FRANCE-BORGOGNE||750ml|134.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 819451003900|VOLVER TEMPRANILLO 750ML SPAIN-LA MANCHAB|VOLVER TEMPRANILLO 750ML SPAIN-LA MANCHAB||750ml|17.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 754527010218|VOODOO IMPERIAL IPA 19OZ|VOODOO IMPERIAL IPA 19OZ||750ml|3.99|21|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-754527004217|VOODOO RANGER IPA 6PK 12OZ BOTTLES|VOODOO RANGER IPA 6PK 12OZ BOTTLES||750ml|15.99|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+754527004217|VOODOO RANGER IPA 6PK 12OZ BOTTLES|VOODOO RANGER IPA 6PK 12OZ BOTTLES||750ml|15.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 739958099117|VOTRE SANTE CHARDONNAY 750ML|VOTRE SANTE CHARDONNAY 750ML||750ml|7.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753825492|HENNESSY COGNAC PRIVILEGE VSOP 80  375ML|HENNESSY COGNAC PRIVILEGE VSOP 80  375ML||750ml|31.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 810885010106|VUEVE DU VERNAY ROSE 187ML 187ML|VUEVE DU VERNAY ROSE 187ML 187ML||750ml|4.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||

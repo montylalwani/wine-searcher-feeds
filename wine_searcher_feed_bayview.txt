@@ -376,7 +376,7 @@ TURNBULL|TURNBULLL OAKVILLE|TURNBULLL OAKVILLE||750ml|199.99|0|https://oceansliq
 210000000837|1792 BOURBON  SMALL BATCH 1.75L|1792 BOURBON  SMALL BATCH 1.75L||750ml|54.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000000838|1792 FULL PROOF 750ML|1792 FULL PROOF 750ML||750ml|49.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000000839|1792 SINGLE BARREL 750ML|1792 SINGLE BARREL 750ML||750ml|45.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000000840|1792 SMALL BATCH 750ML|1792 SMALL BATCH 750ML||750ml|29.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+210000000840|1792 SMALL BATCH 750ML|1792 SMALL BATCH 750ML||750ml|29.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000000842|1800 ANEJO 750ML|1800 ANEJO 750ML||750ml|44.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000000843|1800 COCONUT TEQ 375ML|1800 COCONUT TEQ 375ML||750ml|18.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000000844|1800 COCONUT TEQ 750ML|1800 COCONUT TEQ 750ML||750ml|27.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -1025,7 +1025,7 @@ SKU000038|CA MOMI PINOT NOIR 750ML|CA MOMI PINOT NOIR 750ML||750ml|22.99|0|https
 085000026915|CAMARENA  ANEJO TEQUILA 750ML|CAMARENA  ANEJO TEQUILA 750ML||750ml|33.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 85000017326|CAMARENA REPOSADO 750ML|CAMARENA REPOSADO 750ML||750ml|19.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 085000017302|CAMARENA REPO 1.75L|CAMARENA REPO 1.75L||750ml|44.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-85000017333|CAMARENA REPOSADO 375ML|CAMARENA REPOSADO 375ML||750ml|11.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+85000017333|CAMARENA REPOSADO 375ML|CAMARENA REPOSADO 375ML||750ml|11.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000008829|CAMARENA REPOSADO 50ML|CAMARENA REPOSADO 50ML||750ml|2.99|29|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000016824|CAMARENA SILVER 750ML|CAMARENA SILVER 750ML||750ml|19.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000008812|CAMARENA SILVER 50ML|CAMARENA SILVER 50ML||750ml|2.99|48|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
