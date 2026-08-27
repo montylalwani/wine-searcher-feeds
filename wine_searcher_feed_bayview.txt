@@ -2153,7 +2153,7 @@ TBA|HENRIOT 2005 CUVEE HEMERA 750 ML|HENRIOT 2005 CUVEE HEMERA 750 ML|2005|750ml
 088857001722|HIBIKI 17YR 750ML|HIBIKI 17YR 750ML||750ml|699.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080686934059|HIBIKI HARMONY 750ML|HIBIKI HARMONY 750ML||750ml|99.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 040232118661|HIGH DIVE NAPA VALLEY 750ML 2015|HIGH DIVE NAPA VALLEY 750ML 2015|2015|750ml|82.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-85000029862|HIGH NOON  VARIETY 12PK VARIETY 12oz|HIGH NOON  VARIETY 12PK VARIETY 12oz||750ml|27.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+85000029862|HIGH NOON  VARIETY 12PK VARIETY 12oz|HIGH NOON  VARIETY 12PK VARIETY 12oz||750ml|27.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000031513|HIGH NOON SUN SIPS 8 PACK VARIETY PACK 8PK CANS|HIGH NOON SUN SIPS 8 PACK VARIETY PACK 8PK CANS||750ml|19.99|21|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000429273|HIGH NOON BLACK CHERRY 4 PACK 12OZ CAN|HIGH NOON BLACK CHERRY 4 PACK 12OZ CAN||750ml|10.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 85000426272|HIGH NOON GRAPEFRUIT 4PK 12OZ CANS|HIGH NOON GRAPEFRUIT 4PK 12OZ CANS||750ml|10.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -2721,7 +2721,7 @@ LULUMARG|LUCIEN LURTON MARGAUX 750ML ITALY|LUCIEN LURTON MARGAUX 750ML ITALY||75
 210000003784|MAKERS MARK CASK 750ML|MAKERS MARK CASK 750ML||750ml|54.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085246501252|MAKER''S MARK RC6 750ML|MAKER''S MARK RC6 750ML||750ml|129.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 853562002117|MALENE ROSE SANTA BARBARA 750ML|MALENE ROSE SANTA BARBARA 750ML||750ml|17.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-089540449326|MALIBU COCONUT RUM PET 1.75L|MALIBU COCONUT RUM PET 1.75L||750ml|28.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+089540449326|MALIBU COCONUT RUM PET 1.75L|MALIBU COCONUT RUM PET 1.75L||750ml|28.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 089540449036|MALIBU RUM COCONUT 375ML|MALIBU RUM COCONUT 375ML||750ml|10.99|15|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 089540520100|MALIBU BLACK 750ML|MALIBU BLACK 750ML||750ml|15.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 089540520162|MALIBU BLACK 1L|MALIBU BLACK 1L||750ml|21.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7685,7 +7685,7 @@ FORTUNATE WARRIOR|FORTUNATE SON CAB SAUV WARRIOR 750ML|FORTUNATE SON CAB SAUV WA
 210000012677|MODELO CHELADA SUPREMA TROPICAL 240Z|MODELO CHELADA SUPREMA TROPICAL 240Z||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012680|ELIJAH CRAIG SINGLE BARREL 15 YEAR 750|ELIJAH CRAIG SINGLE BARREL 15 YEAR 750||750ml|249.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012681|HEAVEN HILL 22 2026 750ML|HEAVEN HILL 22 2026 750ML|2026|750ml|1099.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000012682|MOM WATER VARIETY 12 PACK|MOM WATER VARIETY 12 PACK||750ml|32.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000012682|MOM WATER VARIETY 12 PACK|MOM WATER VARIETY 12 PACK||750ml|32.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012684|Surfside Mango Half & Half|Surfside Mango Half & Half||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 31259005010|JOSH CELLARS CAB SAUVIGNON 1.5L|JOSH CELLARS CAB SAUVIGNON 1.5L||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012701|BLUE ICE DOBLE ESPRESSO 50ML|BLUE ICE DOBLE ESPRESSO 50ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7899,7 +7899,7 @@ SIX STACK|MARKHAM SIX STACK CAB SAUV 750ML|MARKHAM SIX STACK CAB SAUV 750ML||750
 210000013091|EL MEXICANO TEQ BLANCO 80 750ML|EL MEXICANO TEQ BLANCO 80 750ML||750ml|37.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013092|EL MEXICANO TEQ REPOSADO 80 750ML|EL MEXICANO TEQ REPOSADO 80 750ML||750ml|39.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013093|TEQUIO CKTL PALOMA BL 13.9 CAN 4P|TEQUIO CKTL PALOMA BL 13.9 CAN 4P||750ml|0|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000013094|TEQUIO CTKL TEQ BL SODA 10 CAN4P|TEQUIO CTKL TEQ BL SODA 10 CAN4P||750ml|0|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000013094|TEQUIO CTKL TEQ BL SODA 10 CAN 4P|TEQUIO CTKL TEQ BL SODA 10 CAN 4P||750ml|14.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013095|TEQUIO CTKL TEQ REPO SODA 10 CAN4P|TEQUIO CTKL TEQ REPO SODA 10 CAN4P||750ml|0|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013096|LA GRITONA REPOSADO 50ML|LA GRITONA REPOSADO 50ML||750ml|11.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013098|GLENFIDDICH 16YR ASTON MARTIN F1 750ML|GLENFIDDICH 16YR ASTON MARTIN F1 750ML||750ml|72.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
