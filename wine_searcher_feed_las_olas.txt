@@ -1067,8 +1067,8 @@ SKU000038|CA MOMI PINOT NOIR 750ML|CA MOMI PINOT NOIR 750ML||750ml|22.99|0|https
 089419002065|CAPARZO ROSSO 2020 DI MONTALCINO 750ML|CAPARZO ROSSO 2020 DI MONTALCINO 750ML|2020|750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 084692471744|CAPOSALADO MOSCATO 750ML|CAPOSALADO MOSCATO 750ML||750ml|15.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 084692511143|CAPOSALDO PROSECCO D.O.C. 750ML|CAPOSALDO PROSECCO D.O.C. 750ML||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-89016017264|CAPRICCIO BUBBLY SANGRIA 750ML|CAPRICCIO BUBBLY SANGRIA 750ML||750ml|8.99|-18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-089016019701|CAPRICCIO PASSION FRUIT 750ML|CAPRICCIO PASSION FRUIT 750ML||750ml|9.99|-10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+89016017264|CAPRICCIO BUBBLY SANGRIA 750ML|CAPRICCIO BUBBLY SANGRIA 750ML||750ml|8.99|-19|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+089016019701|CAPRICCIO PASSION FRUIT 750ML|CAPRICCIO PASSION FRUIT 750ML||750ml|9.99|-11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 089016019732|CAPRICCIO PASSION FRUIT 4PK|CAPRICCIO PASSION FRUIT 4PK||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 089016017929|CAPRICCIO ROSE 750ML|CAPRICCIO ROSE 750ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 089016016762|CAPRICCIO SANGRIA 4PK|CAPRICCIO SANGRIA 4PK||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -1879,7 +1879,7 @@ FRANCOISCROCHET|FRANCOIS CROCHET SANCERRE 750ML 2018 FRANCE|FRANCOIS CROCHET SAN
 088580601299|FRANCOIS MONTAND BRUT 750ML|FRANCOIS MONTAND BRUT 750ML||750ml|9.97|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088580500349|FRANCOIS MONTAND BRUT ROSE 750ML|FRANCOIS MONTAND BRUT ROSE 750ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 721059987509|FRANGELICO HAZELNUT LIQUEUR 40 750ML|FRANGELICO HAZELNUT LIQUEUR 40 750ML||750ml|29.98|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-894910000409|FRANK FAMILY CABERNET SAUVIGNON 750ML|FRANK FAMILY CABERNET SAUVIGNON 750ML||750ml|52.99|30|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+894910000409|FRANK FAMILY CABERNET SAUVIGNON 750ML|FRANK FAMILY CABERNET SAUVIGNON 750ML||750ml|52.99|29|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 894910000102|FRANK FAMILY NAPA CHARDONNAY 750ML|FRANK FAMILY NAPA CHARDONNAY 750ML||750ml|35.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 894910000805|FRANK FAMILY PINOT NOIR 750ML|FRANK FAMILY PINOT NOIR 750ML||750ml|39.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 894910000201|FRANK FAMILY RESERVE CABERNET SAUVIGNON 750ML|FRANK FAMILY RESERVE CABERNET SAUVIGNON 750ML||750ml|99.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2124,10 +2124,10 @@ SKU000333|GB CRANE CABERNET SAUVIGNON 750ML|GB CRANE CABERNET SAUVIGNON 750ML||7
 83664869756|HENDRICKS GIN 1.75L|HENDRICKS GIN 1.75L||750ml|61.99|-12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 083664874125|HENDRICKS MIDSUMMER GIN 750ML|HENDRICKS MIDSUMMER GIN 750ML||750ml|36.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 083664873678|HENDRICK'S ORBIUM 750ML|HENDRICK'S ORBIUM 750ML||750ml|36.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-88110150501|HENNESSY COGNAC VERY SPECIAL 80 50ML|HENNESSY COGNAC VERY SPECIAL 80 50ML||750ml|7.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-081753842697|HENNESSY COGNAC VERY SPECIAL 80 200ML|HENNESSY COGNAC VERY SPECIAL 80 200ML||750ml|16.99|-7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+88110150501|HENNESSY COGNAC VERY SPECIAL 80 50ML|HENNESSY COGNAC VERY SPECIAL 80 50ML||750ml|7.99|16|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+081753842697|HENNESSY COGNAC VERY SPECIAL 80 200ML|HENNESSY COGNAC VERY SPECIAL 80 200ML||750ml|16.99|-8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000003062|HENNESSY COGNAC VSOP 80  750ML|HENNESSY COGNAC VSOP 80  750ML||750ml|59.99|29|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-088110150556|HENNESSY COGNAC VERY SPECIAL 80 750ML|HENNESSY COGNAC VERY SPECIAL 80 750ML||750ml|39.99|33|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+088110150556|HENNESSY COGNAC VERY SPECIAL 80 750ML|HENNESSY COGNAC VERY SPECIAL 80 750ML||750ml|39.99|32|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 088110150587|HENNESSY COGNAC VERY SPECIAL 80 1.75L|HENNESSY COGNAC VERY SPECIAL 80 1.75L||750ml|76.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000003065|HENNESSY COGNAC VERY SPECIAL 80 ROUND BOTTLE 375ML|HENNESSY COGNAC VERY SPECIAL 80 ROUND BOTTLE 375ML||750ml|22.99|-26|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 081753835934|HENNESSY COGNAC XO 80  750ML|HENNESSY COGNAC XO 80  750ML||750ml|199.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2983,7 +2983,7 @@ MOREY 2019|MOREY-SAINT-DENIS 2019 BORGOGNE 750ML|MOREY-SAINT-DENIS 2019 BORGOGNE
 8562104|NEW AMSTERDAM PINEAPPLE 50ML|NEW AMSTERDAM PINEAPPLE 50ML||750ml|1.99|148|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 085000022306|NEW AMSTERDAM PINEAPPLE 375ML|NEW AMSTERDAM PINEAPPLE 375ML||750ml|7.99|21|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 08567507|NEW AMSTERDAM PINK WHITNEY 50ML|NEW AMSTERDAM PINK WHITNEY 50ML||750ml|1.99|139|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-85000029626|NEW AMSTERDAM PINK WHITNEY 750ML|NEW AMSTERDAM PINK WHITNEY 750ML||750ml|12.98|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+85000029626|NEW AMSTERDAM PINK WHITNEY 750ML|NEW AMSTERDAM PINK WHITNEY 750ML||750ml|12.98|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 085000026144|NEW AMSTERDAM RASPBERRY 375 ML|NEW AMSTERDAM RASPBERRY 375 ML||750ml|7.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085000026175|NEW AMSTERDAM RASPBERRY 1.75L|NEW AMSTERDAM RASPBERRY 1.75L||750ml|18.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 08557500|NEW AMSTERDAM RED BERRY 50ML|NEW AMSTERDAM RED BERRY 50ML||750ml|1.99|174|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -2994,7 +2994,7 @@ MOREY 2019|MOREY-SAINT-DENIS 2019 BORGOGNE 750ML|MOREY-SAINT-DENIS 2019 BORGOGNE
 085000028308|NEW AMSTERDAM STRATOSPHERE DRY 1.75L|NEW AMSTERDAM STRATOSPHERE DRY 1.75L||750ml|27.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 85000014318|NEW AMSTERDAM STRATUSPHERE GIN 750ML|NEW AMSTERDAM STRATUSPHERE GIN 750ML||750ml|13.98|-19|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8540209|NEW AMSTERDAM STRATUS GIN 50ML|NEW AMSTERDAM STRATUS GIN 50ML||750ml|1.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-8588005|NEW AMSTERDAM VODKA 80 50ML|NEW AMSTERDAM VODKA 80 50ML||750ml|1.99|-425|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+8588005|NEW AMSTERDAM VODKA 80 50ML|NEW AMSTERDAM VODKA 80 50ML||750ml|1.99|-429|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000019498|NEW AMSTERDAM VODKA 80 750ML|NEW AMSTERDAM VODKA 80 750ML||750ml|12.98|-18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000019511|NEW AMSTERDAM VODKA 80 1.75L|NEW AMSTERDAM VODKA 80 1.75L||750ml|18.98|-24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 085000030943|NEW AMSTERDAM WATERMELON 1.75L|NEW AMSTERDAM WATERMELON 1.75L||750ml|18.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3325,7 +3325,7 @@ HT1174|REGNARD MACON-ROUGE 750ML FRANCE-BOURGUNDY|REGNARD MACON-ROUGE 750ML FRAN
 084692617647|RESONANCE PINOT NOIR 750ML|RESONANCE PINOT NOIR 750ML||750ml|34.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 750175503027|REY SOL EXTRA ANEJO 750ML|REY SOL EXTRA ANEJO 750ML||750ml|199.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 83664869213|REYKA VODKA 750ML|REYKA VODKA 750ML||750ml|20.99|-42|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-210000004621|REYKA VODKA 1.75L|REYKA VODKA 1.75L||750ml|31.99|18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000004621|REYKA VODKA 1.75L|REYKA VODKA 1.75L||750ml|31.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 689768873318|RHUM BARBANCOURT 5 STAR 8 YR 750ML|RHUM BARBANCOURT 5 STAR 8 YR 750ML||750ml|29.99|-15|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 689768873363|RHUM BARBANCOURT 8 YR 50ML|RHUM BARBANCOURT 8 YR 50ML||750ml|6.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 7503011365012|RIAZUL PLATA 750ML|RIAZUL PLATA 750ML||750ml|44.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3527,7 +3527,7 @@ SKU135792|SAUTERNES PETIT GUIRAUD 750ML FRANCE|SAUTERNES PETIT GUIRAUD 750ML FRA
 877591002245|SIDURI PINOT NOIR WV 750ML|SIDURI PINOT NOIR WV 750ML||750ml|23.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 763102113718|SIERRA CANTABRIA RIOJA 750ML SPAIN-RIOJA|SIERRA CANTABRIA RIOJA 750ML SPAIN-RIOJA||750ml|18.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 083783228229|SIERRA NEVADA CELEBRATION 12OZ 6PK BOTTLES|SIERRA NEVADA CELEBRATION 12OZ 6PK BOTTLES||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-083783110104|SIERRA NEVADA LITTLE HAZY 6PK 12OZ CANS|SIERRA NEVADA LITTLE HAZY 6PK 12OZ CANS||750ml|15.99|37|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+083783110104|SIERRA NEVADA LITTLE HAZY 6PK 12OZ CANS|SIERRA NEVADA LITTLE HAZY 6PK 12OZ CANS||750ml|15.99|36|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 083783375213|SIERRA NEVADA PALE ALE 6 PACK 12oz- 6 PACK BOTTLES|SIERRA NEVADA PALE ALE 6 PACK 12oz- 6 PACK BOTTLES||750ml|12.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 089419454086|SIESTA MALBEC 750ML|SIESTA MALBEC 750ML||750ml|26.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 752183270472|SIGNORELLO CABERNET SAUVIGNON 750ML|SIGNORELLO CABERNET SAUVIGNON 750ML||750ml|97.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3864,7 +3864,7 @@ SKU000053|TENSLEY SYRAH COLSON VINEYARD 750ML|TENSLEY SYRAH COLSON VINEYARD 750M
 8033712661179|TOLA GRILLO BIANCO 750ML ITALY-SICILY|TOLA GRILLO BIANCO 750ML ITALY-SICILY||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 6430043095031|TOM OF FINLAND 750ML|TOM OF FINLAND 750ML||750ml|39.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8003030884529|TOMBACCO PECORINO TERRE 750ML ITALY|TOMBACCO PECORINO TERRE 750ML ITALY||750ml|17.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-021136180879|Topo Chico Variety 12 pack|Topo Chico Variety 12 pack||750ml|19.99|-7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+021136180879|Topo Chico Variety 12 pack|Topo Chico Variety 12 pack||750ml|19.99|-8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 810992030066|TORNATORE TRIMARCHISA  2015 ETNA ROSSO 750ML|TORNATORE TRIMARCHISA  2015 ETNA ROSSO 750ML|2015|750ml|79.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8410113002068|TORRES LAS MULAS ROSE 750ML|TORRES LAS MULAS ROSE 750ML||750ml|16.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 632987060755|TORRESELLA 750ML|TORRESELLA 750ML||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -4599,7 +4599,7 @@ SKU000186|STELLA  KEG KEG|STELLA  KEG KEG||750ml|180|0|https://oceansliquor.com/
 210000006673|BOMBAY BLACKBERRY RASPBERRY 50ML|BOMBAY BLACKBERRY RASPBERRY 50ML||750ml|3.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 08568001|new amsterdam passionfruit|new amsterdam passionfruit||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 089540122748|KAHLUA 50ml|KAHLUA 50ml||750ml|2.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-085246171561|MAKERS MARK 50ML|MAKERS MARK 50ML||750ml|4.99|-109|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+085246171561|MAKERS MARK 50ML|MAKERS MARK 50ML||750ml|4.99|-110|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 088004139940|SAZERAC RYE 750ML|SAZERAC RYE 750ML||750ml|26.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000006683|SKREWBALL  375ML|SKREWBALL  375ML||750ml|15.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000006684|D'USSE COGNAC VSOP 80 200ML|D'USSE COGNAC VSOP 80 200ML||750ml|17.99|-9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -4621,7 +4621,7 @@ SKU000186|STELLA  KEG KEG|STELLA  KEG KEG||750ml|180|0|https://oceansliquor.com/
 210000006735|HENDRICKS 375ml|HENDRICKS 375ml||750ml|19.99|-17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000006736|LAMARCA PROSECCO ROSE 187ML|LAMARCA PROSECCO ROSE 187ML||750ml|6.99|-37|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 819135020018|JERMANN PINOT GRIGIO 750ML|JERMANN PINOT GRIGIO 750ML||750ml|21.99|-6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-210000006738|SMIRNOFF VODKA 80 375ML|SMIRNOFF VODKA 80 375ML||750ml|7.99|-230|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+210000006738|SMIRNOFF VODKA 80 375ML|SMIRNOFF VODKA 80 375ML||750ml|7.99|-231|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000006740|RSMY VSOP 1.75|RSMY VSOP 1.75||750ml|134.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 087000004122|BULLEIT BOURBON 80 375ML|BULLEIT BOURBON 80 375ML||750ml|17.99|-31|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753833749|CHATEAU DESCLANS COTES DE PROVENCE ROSE WHISPERING ANGEL 1.5L|CHATEAU DESCLANS COTES DE PROVENCE ROSE WHISPERING ANGEL 1.5L||750ml|49.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -6959,7 +6959,7 @@ RUSSELL'S 16|RUSSELL'S RESERVE 16 YEARS OLD BOURBON BOTTLED IN 2020|RUSSELL'S RE
 210000011225|MIONETTO NON-ALCOHOLIC SPIRITS 500ML|MIONETTO NON-ALCOHOLIC SPIRITS 500ML||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 PIERRE A FEU|DOMAINES DES BUISSONNES SANCERRE CUVEE 750ML|DOMAINES DES BUISSONNES SANCERRE CUVEE 750ML||750ml|29.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 856752|FRE SAUVIGNON BLANC NON-ALCOHOLIC 750ML|FRE SAUVIGNON BLANC NON-ALCOHOLIC 750ML||750ml|9.99|-3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000011230|SURFSIDE GREEN TEA 8 PACK|SURFSIDE GREEN TEA 8 PACK||750ml|19.99|24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000011230|SURFSIDE GREEN TEA 8 PACK|SURFSIDE GREEN TEA 8 PACK||750ml|19.99|22|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011231|WHITE CLAW 190Z PEACH|WHITE CLAW 190Z PEACH||750ml|0|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011232|Labatt Blue Light 12pk Bottle|Labatt Blue Light 12pk Bottle||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011233|Opus One Overture 2023 750ML|Opus One Overture 2023 750ML|2023|750ml|222.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7377,7 +7377,7 @@ BEACON|WILD TURKEY MASTER'S KEEP BEACON|WILD TURKEY MASTER'S KEEP BEACON||750ml|
 210000012056|Spritz Society Lemon Ice Tea 12oz|Spritz Society Lemon Ice Tea 12oz||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012061|SEAGLASS PINOT GRIGIO SANTA BARBARA COUNTY 750ML|SEAGLASS PINOT GRIGIO SANTA BARBARA COUNTY 750ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 087692022756|SUNCRUISER 19.2 ML PINK LEMONADE|SUNCRUISER 19.2 ML PINK LEMONADE||750ml|0|-23|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000012063|TIP TOP COSMO|TIP TOP COSMO||750ml|0|33|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000012063|TIP TOP COSMO|TIP TOP COSMO||750ml|0|32|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012064|NOWADAYS THC VARIETY 10MG 16OZ 6 PACK CANS|NOWADAYS THC VARIETY 10MG 16OZ 6 PACK CANS||750ml|29.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012065|HERB & BLOOM 5MG THC PEACH BELLINI 4 PACK CANS|HERB & BLOOM 5MG THC PEACH BELLINI 4 PACK CANS||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012067|DIORA CHARD Monterey|DIORA CHARD Monterey||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7678,7 +7678,7 @@ FORTUNATE WARRIOR|FORTUNATE SON CAB SAUV WARRIOR 750ML|FORTUNATE SON CAB SAUV WA
 210000012660|FIREBALL THC GUMMIES 50MG|FIREBALL THC GUMMIES 50MG||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012663|WILLETT FAMILY ESTATE SMALL BATCH 4 YEAR CASK STREGNTH 750ML|WILLETT FAMILY ESTATE SMALL BATCH 4 YEAR CASK STREGNTH 750ML||750ml|77.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012664|SAZERAC MISTER SAM TRIBUTE WHISKEY, USA-CANADA 750ML|SAZERAC MISTER SAM TRIBUTE WHISKEY, USA-CANADA 750ML||750ml|1499.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000012665|SUPER LYTE  VODKA +ADE 8 PACK VARIETY|SUPER LYTE  VODKA +ADE 8 PACK VARIETY||750ml|19.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000012665|SUPER LYTE  VODKA +ADE 8 PACK VARIETY|SUPER LYTE  VODKA +ADE 8 PACK VARIETY||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012675|DON JULIO 1942 FIFA GOLD 80 750ML|DON JULIO 1942 FIFA GOLD 80 750ML|1942|750ml|199.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012676|CASAMIGOS 15 PACK|CASAMIGOS 15 PACK||750ml|35.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012677|MODELO CHELADA SUPREMA TROPICAL 240Z|MODELO CHELADA SUPREMA TROPICAL 240Z||750ml|0|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7821,7 +7821,7 @@ SIX STACK|MARKHAM SIX STACK CAB SAUV 750ML|MARKHAM SIX STACK CAB SAUV 750ML||750
 210000012968|AGUARDIENTE REAL ANTIOQUENO AMARILLO 750ML|AGUARDIENTE REAL ANTIOQUENO AMARILLO 750ML||750ml|18.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 0850054469243|DASSSAI 50 NIGORI 720ML|DASSSAI 50 NIGORI 720ML||750ml|22.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012973|MANGO RITA 25oz|MANGO RITA 25oz||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000012974|MIDNIGHT COWBOY ESPRESSO MARTINI VODKA 200ML CAN|MIDNIGHT COWBOY ESPRESSO MARTINI VODKA 200ML CAN||750ml|0|-94|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000012974|MIDNIGHT COWBOY ESPRESSO MARTINI VODKA 200ML CAN|MIDNIGHT COWBOY ESPRESSO MARTINI VODKA 200ML CAN||750ml|0|-96|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012975|MIDNIGHT COWBOY ESPRESSO MARTINI TEQUILA 200ML CAN|MIDNIGHT COWBOY ESPRESSO MARTINI TEQUILA 200ML CAN||750ml|0|-72|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012976|PHELPS PINOT NOIR FREESTONE QUATER MOON VINEYARD 750ML|PHELPS PINOT NOIR FREESTONE QUATER MOON VINEYARD 750ML||750ml|124.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012978|PHELPS PINOT NOIR FREESTONE PASTORALE VINEYARD 750ML|PHELPS PINOT NOIR FREESTONE PASTORALE VINEYARD 750ML||750ml|124.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
