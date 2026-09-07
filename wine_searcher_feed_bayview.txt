@@ -1122,7 +1122,7 @@ CARBLCHAR|CARTE BLANCHE CHARD SONOMA 750ML|CARTE BLANCHE CHARD SONOMA 750ML||750
 856724006008|CASAMIGOS ANEJO 1L|CASAMIGOS ANEJO 1L||750ml|89.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 856724006039|CASAMIGOS ANEJO 50ML|CASAMIGOS ANEJO 50ML||750ml|9.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 856724006138|CASAMIGOS BLANCO 80 50ML|CASAMIGOS BLANCO 80 50ML||750ml|5.99|-45|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-856724006114|CASAMIGOS TEQUILA BLANCO 80 750ML|CASAMIGOS TEQUILA BLANCO 80 750ML||750ml|38.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+856724006114|CASAMIGOS TEQUILA BLANCO 80 750ML|CASAMIGOS TEQUILA BLANCO 80 750ML||750ml|38.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856724006145|CASAMIGOS TEQUILA BLANCO 80 1.75L|CASAMIGOS TEQUILA BLANCO 80 1.75L||750ml|72.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856724006121|CASAMIGOS TEQUILA BLANCO 375ML|CASAMIGOS TEQUILA BLANCO 375ML||750ml|24.99|-14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 856724006220|CASAMIGOS TEQUILA REPOSADO 80 375ML|CASAMIGOS TEQUILA REPOSADO 80 375ML||750ml|29.99|30|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -2882,7 +2882,7 @@ MIAMEGA|MIA MEGA MIX 6 PACK 12OZ - 6 PACK CANS|MIA MEGA MIX 6 PACK 12OZ - 6 PACK
 852165006645|MINUTY ROSE ET OR 750ML|MINUTY ROSE ET OR 750ML||750ml|34.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 727760502031|MIONETTO ORGANIC PROSECCO 750ML ORGANIC|MIONETTO ORGANIC PROSECCO 750ML ORGANIC||750ml|13.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 816253012406|MIONETTO PRESTIGE ROSE 750ML|MIONETTO PRESTIGE ROSE 750ML||750ml|14.99|-4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-727760501638|MIONETTO PRESTIGE BRUT 750ML|MIONETTO PRESTIGE BRUT 750ML||750ml|13.99|-24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+727760501638|MIONETTO PRESTIGE BRUT 750ML|MIONETTO PRESTIGE BRUT 750ML||750ml|13.99|-25|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000012277|MIRASSOU PINOT NOIR 750ML|MIRASSOU PINOT NOIR 750ML||750ml|11.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 89419235111|MIRAVAL ROSE PROVENCE 750ML|MIRAVAL ROSE PROVENCE 750ML||750ml|18.99|21|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 089419240115|MIRAVAL ROSE 1.5L|MIRAVAL ROSE 1.5L||750ml|54.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -5344,7 +5344,7 @@ PLUMPJACK|PLUMPJACK CABERNET SAUVIGNON 750ML|PLUMPJACK CABERNET SAUVIGNON 750ML|
 210000008101|LA PETITE TOUR CHATEAUNEUF DU PAPE 750ML|LA PETITE TOUR CHATEAUNEUF DU PAPE 750ML||750ml|29.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008102|DR LOOSEN WEHLENER SONNENUHR RIESLING SPATLESE 750ML|DR LOOSEN WEHLENER SONNENUHR RIESLING SPATLESE 750ML||750ml|34.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008103|DOMAINE FOUCHER LEBRUN LE MONT SANCERRE 750ML|DOMAINE FOUCHER LEBRUN LE MONT SANCERRE 750ML||750ml|34.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-LAPOUSSIE|LA POUSSIE SANCERRE 750ML|LA POUSSIE SANCERRE 750ML||750ml|47.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+LAPOUSSIE|LA POUSSIE SANCERRE 750ML|LA POUSSIE SANCERRE 750ML||750ml|47.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008105|POST & BEAM CHARDONNAY NAPA VALLEY 750ML|POST & BEAM CHARDONNAY NAPA VALLEY 750ML||750ml|36.98|18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000008107|JINRO CHAMISUL SOJU 375ML|JINRO CHAMISUL SOJU 375ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000008108|JINRO CHAMISUL 750ML|JINRO CHAMISUL 750ML||750ml|19.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
