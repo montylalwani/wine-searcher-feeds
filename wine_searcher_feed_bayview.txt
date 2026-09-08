@@ -83,7 +83,7 @@
 082928223310|CANADIAN LTD 175|CANADIAN LTD 175||750ml|17.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088076163461|CAOL ILA 12 YR SINGLE MALT 750ML|CAOL ILA 12 YR SINGLE MALT 750ML||750ml|64.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088004004880|CARIBOU CROSSING|CARIBOU CROSSING||750ml|129.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-082734001096|CONCHO Y TORO CASIL DIABLO CABERNET SAUVIGNON 750ML|CONCHO Y TORO CASIL DIABLO CABERNET SAUVIGNON 750ML||750ml|9.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+082734001096|CONCHO Y TORO CASIL DIABLO CABERNET SAUVIGNON 750ML|CONCHO Y TORO CASIL DIABLO CABERNET SAUVIGNON 750ML||750ml|9.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 873964000412|CH HAUT-COLOMBIER COTES DE BORDEAUX 750ML|CH HAUT-COLOMBIER COTES DE BORDEAUX 750ML||750ml|16.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 088586630989|CH ST MICH SAUV BLANC|CH ST MICH SAUV BLANC||750ml|9.97|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085155001010|CHANDON BRUT  187ML|CHANDON BRUT  187ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -1418,7 +1418,7 @@ COCO|COQUITO HOMEMADE 750ML|COQUITO HOMEMADE 750ML||750ml|15.99|0|https://oceans
 831869000012|CROSSINGS SAUVIGNON BLANC 750ML|CROSSINGS SAUVIGNON BLANC 750ML||750ml|13.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 824580|CROWN ROYAL REGAL APPLE 70 50ML|CROWN ROYAL REGAL APPLE 70 50ML||750ml|3.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 082000796213|CROWN PEACH TEA 4PK CAN 355ML|CROWN PEACH TEA 4PK CAN 355ML||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-87000007253|CROWN ROYAL 80 750ML|CROWN ROYAL 80 750ML||750ml|19.99|18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+87000007253|CROWN ROYAL 80 750ML|CROWN ROYAL 80 750ML||750ml|19.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 087000700604|CROWN ROYAL 80 1.75L|CROWN ROYAL 80 1.75L||750ml|39.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 087000007604|CROWN ROYAL CANADIAN 80 PET 375ML|CROWN ROYAL CANADIAN 80 PET 375ML||750ml|16.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 082000771593|CROWN ROYAL REGAL APPLE 70 1.75L|CROWN ROYAL REGAL APPLE 70 1.75L||750ml|49.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2295,7 +2295,7 @@ WRAITH|HUNDRED ACRE WRAITH 2016 750ML|HUNDRED ACRE WRAITH 2016 750ML|2016|750ml|
 080432355077|JACOBS CREEK RSV CABERNET SAUVIGNON 750ML|JACOBS CREEK RSV CABERNET SAUVIGNON 750ML||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 84692400546|JADOT BEAUJOLAIS-VILLAGE 750ML|JADOT BEAUJOLAIS-VILLAGE 750ML||750ml|12.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 084692420148|JADOT MEURSAULT 750ML FRANCE|JADOT MEURSAULT 750ML FRANCE||750ml|94.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-846926848476|LOUIS JADOT POUILLY FUISSE 750ML|LOUIS JADOT POUILLY FUISSE 750ML||750ml|31.99|26|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+846926848476|LOUIS JADOT POUILLY FUISSE 750ML|LOUIS JADOT POUILLY FUISSE 750ML||750ml|31.99|25|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 083089999892|JAGER COOLPACK 375ML|JAGER COOLPACK 375ML||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 JAGER|JAGERMEISTER 20ML 20ML|JAGERMEISTER 20ML 20ML||750ml|1|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 083089000062|Jagermeister SCHARF GINGER 750ML|Jagermeister SCHARF GINGER 750ML||750ml|24.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2537,7 +2537,7 @@ KB1|KOSTA BROWNE CHARDONNAY 750ML|KOSTA BROWNE CHARDONNAY 750ML||750ml|69.99|0|h
 086003253001|KUNG FU GIRL RIESLING 750ML|KUNG FU GIRL RIESLING 750ML||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 748294424446|KWV SUPERIOR 5 YEAR SOUTH AFRICAN BRANDY 750ML|KWV SUPERIOR 5 YEAR SOUTH AFRICAN BRANDY 750ML||750ml|29.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 084692424948|LOUIS JADOT PULIGNY-MONTRACHET 750ML|LOUIS JADOT PULIGNY-MONTRACHET 750ML||750ml|103.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-026861180781|L LATOUR CHABLIS LA CHANFLEURE 750ML FRANCE WHITE|L LATOUR CHABLIS LA CHANFLEURE 750ML FRANCE WHITE||750ml|29.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+026861180781|L LATOUR CHABLIS LA CHANFLEURE 750ML FRANCE WHITE|L LATOUR CHABLIS LA CHANFLEURE 750ML FRANCE WHITE||750ml|29.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 026861102004|MAISON LOUIS LATOUR MACON-LUGNY 2021 LES GENIEVRES 750ML|MAISON LOUIS LATOUR MACON-LUGNY 2021 LES GENIEVRES 750ML|2021|750ml|21.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 026861103162|L. LATOUR POUILLY- FUISSE 750ML FRANCE WHITE|L. LATOUR POUILLY- FUISSE 750ML FRANCE WHITE||750ml|33.99|-4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 8014384000435|LA  PRANDA  BAROLO 750ML ITALY|LA  PRANDA  BAROLO 750ML ITALY||750ml|58.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2791,7 +2791,7 @@ SKU000021|MASI CAMPOFIORIN 2019 750ML|MASI CAMPOFIORIN 2019 750ML|2019|750ml|19.
 89819158027|MATUA SAUVIGNON BLANC 750ML|MATUA SAUVIGNON BLANC 750ML||750ml|11.99|-34|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 019414010116|MAX FERD RICHTER 2017 RIESLING 750ML|MAX FERD RICHTER 2017 RIESLING 750ML|2017|750ml|16.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753828004|MOET & CHANDON  ICE IMPERIAL ROSE CHAMPAGNE 750ML|MOET & CHANDON  ICE IMPERIAL ROSE CHAMPAGNE 750ML||750ml|69.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-081753841683|MOET & CHANDON IMPERIAL BRUT ROSE CHAMPAGNE 750ML|MOET & CHANDON IMPERIAL BRUT ROSE CHAMPAGNE 750ML||750ml|59.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+081753841683|MOET & CHANDON IMPERIAL BRUT ROSE CHAMPAGNE 750ML|MOET & CHANDON IMPERIAL BRUT ROSE CHAMPAGNE 750ML||750ml|59.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088110551254|MOET & CHANDON CHAMPAGNE DEMI SEC NECTAR IMPERIAL 750ML|MOET & CHANDON CHAMPAGNE DEMI SEC NECTAR IMPERIAL 750ML||750ml|59.99|22|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088076161658|MOET & CHANDON CHAMPAGNE DEMI SEC ROSE NECTAR IMPERIAL 750ML|MOET & CHANDON CHAMPAGNE DEMI SEC ROSE NECTAR IMPERIAL 750ML||750ml|54.99|-14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085592104510|MCCORMICK 80 1.75L|MCCORMICK 80 1.75L||750ml|17.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3175,7 +3175,7 @@ PENCERANCHCHARD|PENCH RANCE CHARD STA RTA HILL 750ML 2016|PENCH RANCE CHARD STA 
 852832105268|PERRIER JOUET BELL EPOQUE ROSE 2010 1.5L CS|PERRIER JOUET BELL EPOQUE ROSE 2010 1.5L CS|2010|750ml|899.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 852832105220|PERRIER-JOUET BELLE EPOQUE 750ML CS|PERRIER-JOUET BELLE EPOQUE 750ML CS||750ml|244.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000004413|PERRIER-JOUET BLANSON ROSE 750ML|PERRIER-JOUET BLANSON ROSE 750ML||750ml|79.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-0852832105053|PERRIER JOUET GRAND BRUT CHAMPAGNE 750ML|PERRIER JOUET GRAND BRUT CHAMPAGNE 750ML||750ml|49.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+0852832105053|PERRIER JOUET GRAND BRUT CHAMPAGNE 750ML|PERRIER JOUET GRAND BRUT CHAMPAGNE 750ML||750ml|49.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 089419016956|PERRIN COTES DU RHONE BLANC RSV 750ML|PERRIN COTES DU RHONE BLANC RSV 750ML||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 089419015942|PERRIN COTES DU RHONE RES RED 750ML|PERRIN COTES DU RHONE RES RED 750ML||750ml|11.99|29|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 818819010123|PERRO CALLEJERO BLEND D MALBEC 750ML|PERRO CALLEJERO BLEND D MALBEC 750ML||750ml|17.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3336,7 +3336,7 @@ HT1174|REGNARD MACON-ROUGE 750ML FRANCE-BOURGUNDY|REGNARD MACON-ROUGE 750ML FRAN
 744442901005|RIDGE LYTTON SPRINGS 750ML|RIDGE LYTTON SPRINGS 750ML||750ml|39.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 744442839001|RIDGE PONZO ZINFANDEL 750ML|RIDGE PONZO ZINFANDEL 750ML||750ml|29.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 744442081004|RIDGE THREE VALLEYS ZINFANDEL 750ML|RIDGE THREE VALLEYS ZINFANDEL 750ML||750ml|29.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-639754000075|RIGHETTI AMARONE CAPITEL ROARI  750ML|RIGHETTI AMARONE CAPITEL ROARI  750ML||750ml|37.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+639754000075|RIGHETTI AMARONE CAPITEL ROARI  750ML|RIGHETTI AMARONE CAPITEL ROARI  750ML||750ml|37.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 8437009257104|RIO MADRE RIOJA 750ML SPAIN|RIO MADRE RIOJA 750ML SPAIN||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 096749702756|RITTENHOUSE RYE 100 PRF 750ML|RITTENHOUSE RYE 100 PRF 750ML||750ml|26.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 892447002064|RITUAL SAUVIGNON BLANC 750ML|RITUAL SAUVIGNON BLANC 750ML||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3951,7 +3951,7 @@ VEGA2013|VEGA VALBUENA 2013 750ML|VEGA VALBUENA 2013 750ML|2013|750ml|199.99|0|h
 088603011883|VERY RASPBERRY ROSE WINE 750ML|VERY RASPBERRY ROSE WINE 750ML||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088603011890|VERY WATERMELON ROSE WINE 750ML|VERY WATERMELON ROSE WINE 750ML||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753050221|VEUVE CLICQUOT BRUT CHAMPAGNE 375ML|VEUVE CLICQUOT BRUT CHAMPAGNE 375ML||750ml|44.99|-19|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-081753835965|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML||750ml|54.99|97|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+081753835965|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML||750ml|54.99|93|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 081753810979|VEUVE CLICQUOT BRUT 1.5L CS|VEUVE CLICQUOT BRUT 1.5L CS||750ml|154.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753826130|VEUVE CLICQUOT RICH 750ML|VEUVE CLICQUOT RICH 750ML||750ml|67.99|18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753827922|VEUVE CLICQUOT RICH ROSE 750ML|VEUVE CLICQUOT RICH ROSE 750ML||750ml|71.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -4604,7 +4604,7 @@ SKU000186|STELLA  KEG KEG|STELLA  KEG KEG||750ml|180|0|https://oceansliquor.com/
 210000006683|SKREWBALL  375ML|SKREWBALL  375ML||750ml|15.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000006684|D'USSE COGNAC VSOP 80 200ML|D'USSE COGNAC VSOP 80 200ML||750ml|17.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000006685|BUSHMILLS IRISH ORIGINAL|BUSHMILLS IRISH ORIGINAL||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-824720|SMIRNOFF VODKA 80 50ML|SMIRNOFF VODKA 80 50ML||750ml|1.99|-61|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+824720|SMIRNOFF VODKA 80 50ML|SMIRNOFF VODKA 80 50ML||750ml|1.99|-64|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000006701|DEWAR'S WHITE LABEL|DEWAR'S WHITE LABEL||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000006704|JAGERMEISTER SMALL 50 ML|JAGERMEISTER SMALL 50 ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 857641002142|BUZZBALLZ LIME TEQUILA RITA 200ML|BUZZBALLZ LIME TEQUILA RITA 200ML||750ml|3.99|-48|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -4809,7 +4809,7 @@ SOTER 1|SOTER PINOT NOIR DUNDEE HILLS|SOTER PINOT NOIR DUNDEE HILLS||750ml|0|0|h
 680203320145|WILLET FAMILY 8 YR OLD BOURBON CWS|WILLET FAMILY 8 YR OLD BOURBON CWS||750ml|299.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8437007216004|Jose Ordonez Seleccion  & Old Vines 375ml|Jose Ordonez Seleccion  & Old Vines 375ml||750ml|21.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 3361121330023|DOM ROLET ARBOIS ROUGE TRADITION|DOM ROLET ARBOIS ROUGE TRADITION||750ml|29.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-8437011898012|LA CANA  ALBARINO 750ML|LA CANA  ALBARINO 750ML||750ml|23.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+8437011898012|LA CANA  ALBARINO 750ML|LA CANA  ALBARINO 750ML||750ml|23.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000007033|PARADIGM CABERNET SAUVIGNON 750ML|PARADIGM CABERNET SAUVIGNON 750ML||750ml|99.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000007034|JOSE CUERVO RESERVE DE LA FAMILIA PLATINO 750ML|JOSE CUERVO RESERVE DE LA FAMILIA PLATINO 750ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000007035|PACIFICO 12OZ CAN|PACIFICO 12OZ CAN||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -6355,7 +6355,7 @@ MOREY 2015|MOREY-SAINT-DENIS 2015 BORGOGNE 750ML|MOREY-SAINT-DENIS 2015 BORGOGNE
 210000010073|BLUE RUN REFLECTION 2 750ML|BLUE RUN REFLECTION 2 750ML||750ml|99.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 082242017633|BOTA BOX BREEZE CHARDONNAY|BOTA BOX BREEZE CHARDONNAY||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010076|CAZADORES TEQUILA ANEJO 80 750ML|CAZADORES TEQUILA ANEJO 80 750ML||750ml|33.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-085000037720|HIGH NOON 700ML LIME TEQUILA|HIGH NOON 700ML LIME TEQUILA||750ml|5.99|28|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+085000037720|HIGH NOON 700ML LIME TEQUILA|HIGH NOON 700ML LIME TEQUILA||750ml|5.99|26|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010078|LOUIS JADOT CHARDONNAY BOURGOGNE 750ML|LOUIS JADOT CHARDONNAY BOURGOGNE 750ML||750ml|15.99|15|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 018200289866|STELLA  ARTOIS 18 PACK|STELLA  ARTOIS 18 PACK||750ml|27.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010080|FOUR LOKO USA 24 oz CAN|FOUR LOKO USA 24 oz CAN||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -6950,7 +6950,7 @@ RUSSELL'S 16|RUSSELL'S RESERVE 16 YEARS OLD BOURBON BOTTLED IN 2020|RUSSELL'S RE
 210000011207|CAROLANS PEANUT BUTTER 50ml|CAROLANS PEANUT BUTTER 50ml||750ml|1.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011208|Carolans Salted Caramel 50ML|Carolans Salted Caramel 50ML||750ml|1.99|-7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011213|REGALEALI BIANCO SICILIA|REGALEALI BIANCO SICILIA||750ml|18.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000011214|HAUT BATAILLEY VERSO PAULILAC 2018 750ML|HAUT BATAILLEY VERSO PAULILAC 2018 750ML|2018|750ml|45.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000011214|HAUT BATAILLEY VERSO PAULILAC 2018 750ML|HAUT BATAILLEY VERSO PAULILAC 2018 750ML|2018|750ml|45.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 050037797787|TIA MARIA MATCHA CREAM|TIA MARIA MATCHA CREAM||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011217|LUNAZUL BLANCO 375ML|LUNAZUL BLANCO 375ML||750ml|14.99|13|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011218|BACARDI GOLD 1.75|BACARDI GOLD 1.75||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7330,7 +7330,7 @@ RAPHET VOUGEOT|GERARD RAPHET CLOS DE VOUGEOT GRAND CRU VIEILLES VIGNES 2020|GERA
 082184008768|JACK DANIEL BLACKBERRY 50ML|JACK DANIEL BLACKBERRY 50ML||750ml|2.99|17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011954|CROWN ROYAL CHOCOLATE  750ML|CROWN ROYAL CHOCOLATE  750ML||750ml|28.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011956|CAYMAN JACK LIME MARG 6 PACK BOTTLES single|CAYMAN JACK LIME MARG 6 PACK BOTTLES single||750ml|2.17|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000011958|TEMPO D' ANGELUS 2023 750ML|TEMPO D' ANGELUS 2023 750ML|2023|750ml|34.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000011958|TEMPO D' ANGELUS 2023 750ML|TEMPO D' ANGELUS 2023 750ML|2023|750ml|34.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011959|NORDES GIN 700ML|NORDES GIN 700ML||750ml|34.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011960|CLASE AZUL AHUMADO 750ML|CLASE AZUL AHUMADO 750ML||750ml|279.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011961|DEPT 66 FRAGILE ROSE 750ML|DEPT 66 FRAGILE ROSE 750ML||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7412,7 +7412,7 @@ MOREY EMB|MOREY VINCENT CHASSAGNE 1ER EMBRAZEES 750ML|MOREY VINCENT CHASSAGNE 1E
 PAHLMEYER|PAHLMEYER RED 1.5L 2021|PAHLMEYER RED 1.5L 2021|2021|750ml|499.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012115|MAAL AMBIGUO MALBEC ROSE 750ML|MAAL AMBIGUO MALBEC ROSE 750ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012116|Tito's 100 ML|Tito's 100 ML||750ml|4.99|45|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-722358411108|LOS VASCOS CABERNET SAUVIGNON 750ML CHILE|LOS VASCOS CABERNET SAUVIGNON 750ML CHILE||750ml|11.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+722358411108|LOS VASCOS CABERNET SAUVIGNON 750ML CHILE|LOS VASCOS CABERNET SAUVIGNON 750ML CHILE||750ml|11.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012121|TAITTINGER PRESTIGE ROSE 375ML|TAITTINGER PRESTIGE ROSE 375ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012123|HENNESSY COGNAC VERY SPECIAL 80 FLASK BOTTLE 375ML|HENNESSY COGNAC VERY SPECIAL 80 FLASK BOTTLE 375ML||750ml|22.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012124|KETEL ONE LEMON DROP MARTINI 750ML|KETEL ONE LEMON DROP MARTINI 750ML||750ml|21.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
