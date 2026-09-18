@@ -3711,7 +3711,7 @@ HT1123|STAGLIN SALUS CHARDONNAY 750ML|STAGLIN SALUS CHARDONNAY 750ML||750ml|49.9
 027724387507|ST.GEORGE BALLER SINGLE MALT 750ML|ST.GEORGE BALLER SINGLE MALT 750ML||750ml|99.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 027724947503|ST.GEORGE BREAKING & ENTERING 750ML|ST.GEORGE BREAKING & ENTERING 750ML||750ml|29.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 816136024151|STOLEN ROCK & RYE 750ML|STOLEN ROCK & RYE 750ML||750ml|22.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-811751020045|STOLI VODKA 80 PROOF 1.75L|STOLI VODKA 80 PROOF 1.75L||750ml|29.99|-16|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+811751020045|STOLI VODKA 80 PROOF 1.75L|STOLI VODKA 80 PROOF 1.75L||750ml|29.99|-17|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 811751020021|STOLI VODKA 80 PROOF 1L|STOLI VODKA 80 PROOF 1L||750ml|27.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 811751020090|STOLI VODKA BLUEBERRI 1.75L|STOLI VODKA BLUEBERRI 1.75L||750ml|29.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 811751020076|STOLI VODKA BLUEBERI 750ML|STOLI VODKA BLUEBERI 750ML||750ml|19.99|10|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -5579,7 +5579,7 @@ MANIFEST|JAGER MANIFEST 1L|JAGER MANIFEST 1L||750ml|0|0|https://oceansliquor.com
 210000008546|ALBRECHT CREMANT BRUT ROSE 750ML|ALBRECHT CREMANT BRUT ROSE 750ML||750ml|19.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008547|MAKERS MARK PRIVATE SELECTION HONOR FLIGHT|MAKERS MARK PRIVATE SELECTION HONOR FLIGHT||750ml|69.99|54|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000008548|MANGO SHOTTA|MANGO SHOTTA||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000008549|F. COPPOLA DIAMOND PROSECCO 750ML|F. COPPOLA DIAMOND PROSECCO 750ML||750ml|13.99|90|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000008549|F. COPPOLA DIAMOND PROSECCO 750ML|F. COPPOLA DIAMOND PROSECCO 750ML||750ml|13.99|89|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008552|WOODFORD RESERVE 18 YEAR|WOODFORD RESERVE 18 YEAR||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000008553|HUDSON WHISKEY RYE|HUDSON WHISKEY RYE||750ml|43.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 859061006007|CODIGO 1530 BLANCO 750ML|CODIGO 1530 BLANCO 750ML||750ml|47.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7843,7 +7843,7 @@ SIX STACK|MARKHAM SIX STACK CAB SAUV 750ML|MARKHAM SIX STACK CAB SAUV 750ML||750
 210000012997|TEREMANA ANEJO 50ML|TEREMANA ANEJO 50ML||750ml|4.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012998|MOUNT GAY SILVER RUM 750ML|MOUNT GAY SILVER RUM 750ML||750ml|19.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012999|DRUMSHANBO GUNPOWDER ITALIAN FIG & LAUREL 750ML|DRUMSHANBO GUNPOWDER ITALIAN FIG & LAUREL 750ML||750ml|35.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000013001|APEROL APERTIVO 1.5L|APEROL APERTIVO 1.5L||750ml|39.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000013001|APEROL APERTIVO 1.5L|APEROL APERTIVO 1.5L||750ml|39.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013002|ARACIEL MALBEC 750ML|ARACIEL MALBEC 750ML||750ml|43.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013005|THREADCOUNT QUILT CALIFORNIA CABERNET SAUVIGNON|THREADCOUNT QUILT CALIFORNIA CABERNET SAUVIGNON||750ml|20.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013007|ESPOLON BLANCO 200ml|ESPOLON BLANCO 200ml||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
