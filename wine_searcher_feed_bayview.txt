@@ -1016,7 +1016,7 @@ SKU000038|CA MOMI PINOT NOIR 750ML|CA MOMI PINOT NOIR 750ML||750ml|22.99|0|https
 084692479146|CAKEBREAD CABERNET SAUVIGNON NAPA 750ML|CAKEBREAD CABERNET SAUVIGNON NAPA 750ML||750ml|81.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 084692449347|CAKEBREAD MERLOT 750ML|CAKEBREAD MERLOT 750ML||750ml|75.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 084692607105|CAKEBREAD MULLAN ROAD 750ML|CAKEBREAD MULLAN ROAD 750ML||750ml|39.97|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-84692478941|CAKEBREAD NAPA CHARDONNAY 750ML|CAKEBREAD NAPA CHARDONNAY 750ML||750ml|43.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+84692478941|CAKEBREAD NAPA CHARDONNAY 750ML|CAKEBREAD NAPA CHARDONNAY 750ML||750ml|43.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 084692416844|CAKEBREAD PINOT NOIR TWO CREEKS 750ML|CAKEBREAD PINOT NOIR TWO CREEKS 750ML||750ml|49.99|14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 084692479047|CAKEBREAD SAUVIGNON BLANC 750ML|CAKEBREAD SAUVIGNON BLANC 750ML||750ml|31.99|27|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 727760516618|CALCARIUS ORANGE PUGLIA 750ML ITALY|CALCARIUS ORANGE PUGLIA 750ML ITALY||750ml|34.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2391,7 +2391,7 @@ JC100|JOSE CUERVO ESPECIAL GOLD TEQ 100ML|JOSE CUERVO ESPECIAL GOLD TEQ 100ML||7
 811538019590|JOSE CUERVO RESERVA REPO 750ML|JOSE CUERVO RESERVA REPO 750ML||750ml|84.97|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 811538010917|JOSE CUERVO ESPECIAL SILVER TEQ 375ML|JOSE CUERVO ESPECIAL SILVER TEQ 375ML||750ml|14.99|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 811538010856|JOSE CUERVO ESPECIAL SILVER TEQ 750ML|JOSE CUERVO ESPECIAL SILVER TEQ 750ML||750ml|19.99|22|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-811538010955|JOSE CUERVO ESPECIAL SILVER TEQ 50ML|JOSE CUERVO ESPECIAL SILVER TEQ 50ML||750ml|2.99|-2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+811538010955|JOSE CUERVO ESPECIAL SILVER TEQ 50ML|JOSE CUERVO ESPECIAL SILVER TEQ 50ML||750ml|2.99|-6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 811538010771|JOSE CUERVO ESPECIAL SILVER TEQ 1.75L|JOSE CUERVO ESPECIAL SILVER TEQ 1.75L||750ml|41.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 811538010931|JOSE CUERVO ESPECIAL SILVER TEQ 200ML|JOSE CUERVO ESPECIAL SILVER TEQ 200ML||750ml|8.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 811538011990|JOSE CUERVO ESPECIAL SILVER TEQ 100ML|JOSE CUERVO ESPECIAL SILVER TEQ 100ML||750ml|5.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -2484,7 +2484,7 @@ JACKSON SONOMA|KENDALL JACKSON ESTATE P.NOIR 750ML|KENDALL JACKSON ESTATE P.NOIR
 4820163121765|KHOR PLATINUM 1.75L|KHOR PLATINUM 1.75L||750ml|22.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 4820163121710|KHOR PLATINUM 100ML|KHOR PLATINUM 100ML||750ml|3.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 851362006007|KIKORI JAPANESE WHISKEY 750ML|KIKORI JAPANESE WHISKEY 750ML||750ml|44.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-689352009611|KIM CRAWFORD SAUVIGNON BLANC 750ML|KIM CRAWFORD SAUVIGNON BLANC 750ML||750ml|14.99|15|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+689352009611|KIM CRAWFORD SAUVIGNON BLANC 750ML|KIM CRAWFORD SAUVIGNON BLANC 750ML||750ml|14.99|14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 689352010044|KIM CRAWFORD S.B. 250ML CAN WINE 2019|KIM CRAWFORD S.B. 250ML CAN WINE 2019|2019|750ml|5.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 768675960127|KING ESTATE PINOT GRIS 750ML|KING ESTATE PINOT GRIS 750ML||750ml|17.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 768675960226|KING ESTATE PINOT NOIR  WILAMETTE VALLEY ARTISAN SERIES 750ML|KING ESTATE PINOT NOIR  WILAMETTE VALLEY ARTISAN SERIES 750ML||750ml|27.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3260,7 +3260,7 @@ PULIGNYMONTRACHET|PULIGNY MONTRACHET CHARDONNAY 750ML|PULIGNY MONTRACHET CHARDON
 786032052520|PUUR CBD 1500MG|PUUR CBD 1500MG||750ml|149.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 721733100095|PYRAT RUM 375ML|PYRAT RUM 375ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 8031481003183|QUERCIABELLA CHIANTI CLASSICO 750ML ITALY-CHIANTI TOSCANA|QUERCIABELLA CHIANTI CLASSICO 750ML ITALY-CHIANTI TOSCANA||750ml|26.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-859889006111|QUILT CABERNET SAUVIGNON RSV 2017 750ML|QUILT CABERNET SAUVIGNON RSV 2017 750ML|2017|750ml|89.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+859889006111|QUILT CABERNET SAUVIGNON RSV 2017 750ML|QUILT CABERNET SAUVIGNON RSV 2017 750ML|2017|750ml|89.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 859889006005|QUILT CABERNET SAUVIGNON 750ML|QUILT CABERNET SAUVIGNON 750ML||750ml|39.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 859889006210|QUILT CHARDONNAY 750ML|QUILT CHARDONNAY 750ML||750ml|39.98|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 859889006302|QUILT RED BLEND 750ML|QUILT RED BLEND 750ML||750ml|25.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -6836,7 +6836,7 @@ NIKKA 10|NIKKA SINGLE MALT WHISKY YOICHI 10 YR 90|NIKKA SINGLE MALT WHISKY YOICH
 210000010988|SMIRNOFF VODKA 100 PET 1.75|SMIRNOFF VODKA 100 PET 1.75||750ml|27.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 085156935017|KETEL ONE BOTANICAL VODKA SPRITZ VARIETY 8 PACK|KETEL ONE BOTANICAL VODKA SPRITZ VARIETY 8 PACK||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753840372|DOM PERIGNON BRUT 2015 J.M.BASQUIAT 750ML CS|DOM PERIGNON BRUT 2015 J.M.BASQUIAT 750ML CS|2015|750ml|399.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-83729002821|LES CHAMPS CLOS SANCERRE 750ML|LES CHAMPS CLOS SANCERRE 750ML||750ml|29.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+83729002821|LES CHAMPS CLOS SANCERRE 750ML|LES CHAMPS CLOS SANCERRE 750ML||750ml|29.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010992|XXL CALI EXTREME 21 750ML|XXL CALI EXTREME 21 750ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010993|THE MACALLAN TIME : SPACE MASTERY 700ML|THE MACALLAN TIME : SPACE MASTERY 700ML||750ml|1499.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000010994|THE MACALLAN A NIGHT ON EARTH IN JEREZ DE LA FRONTERA 750ML|THE MACALLAN A NIGHT ON EARTH IN JEREZ DE LA FRONTERA 750ML||750ml|139.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7148,7 +7148,7 @@ PREROLL|DANK FIL A THC DELTA PRE ROLL 1G|DANK FIL A THC DELTA PRE ROLL 1G||750ml
 811041030068|LALO BLANCO 1L|LALO BLANCO 1L||750ml|57.99|-71|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011627|GUIGAL SAINT JOSEPH WHITE RHONE|GUIGAL SAINT JOSEPH WHITE RHONE||750ml|37.99|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011628|GUIGAL CHATEAUNEUF DU PAPE 750ML|GUIGAL CHATEAUNEUF DU PAPE 750ML||750ml|49.99|19|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000011629|MAISON CHANTAL SANCERRE 750ML|MAISON CHANTAL SANCERRE 750ML||750ml|32.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000011629|MAISON CHANTAL SANCERRE 750ML|MAISON CHANTAL SANCERRE 750ML||750ml|32.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011630|WILLIAM FEVRE CHABLIS 750ML|WILLIAM FEVRE CHABLIS 750ML||750ml|37.99|11|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011631|PEYRASSOL LA CROIX ROSE 750ML|PEYRASSOL LA CROIX ROSE 750ML||750ml|17.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000011632|PETITE CONNETABLE SAUV BLANC 750ML|PETITE CONNETABLE SAUV BLANC 750ML||750ml|13.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7940,3 +7940,4 @@ MORG WAY|HUNDRED ACRE CAB SAUV MORGAN'S WAY 750ML CS|HUNDRED ACRE CAB SAUV MORGA
 210000013182|ON THE ROCK MARGARITA 4 PACK CANNED COCKTAIL|ON THE ROCK MARGARITA 4 PACK CANNED COCKTAIL||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013183|ON THE ROCKS VODKA MULE CANNED COCKTAIL 4 PACKS|ON THE ROCKS VODKA MULE CANNED COCKTAIL 4 PACKS||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000013184|JAM JAR SWEET RED BLEND 750ML|JAM JAR SWEET RED BLEND 750ML||750ml|12.99|12|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000013188|Otr-On The Rocks Mango & Mint Mojito Carbonated Cocktail 4PK CANNED COCKTAIL|Otr-On The Rocks Mango & Mint Mojito Carbonated Cocktail 4PK CANNED COCKTAIL||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
