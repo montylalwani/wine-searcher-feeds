@@ -2334,7 +2334,7 @@ VMS3242780|JEFFERSONS STRAIGHT BOURBON 750ML|JEFFERSONS STRAIGHT BOURBON 750ML||
 726452001630|JERMANN WHERE DREAMS 750ML ITALY|JERMANN WHERE DREAMS 750ML ITALY||750ml|69.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080686001904|JIM BEAM BOURBON 80 PET 50ML|JIM BEAM BOURBON 80 PET 50ML||750ml|1.99|26|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 080686001409|JIM BEAM BOURBON 80 750ML|JIM BEAM BOURBON 80 750ML||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-080686001607|JIM BEAM PET 375ML|JIM BEAM PET 375ML||750ml|9.99|50|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+080686001607|JIM BEAM PET 375ML|JIM BEAM PET 375ML||750ml|9.99|49|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 080686006756|JIM BEAM APPLE 750ML PET|JIM BEAM APPLE 750ML PET||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080686019237|JIM BEAM BOURBON & GINGERALE 4 PACK 355ML|JIM BEAM BOURBON & GINGERALE 4 PACK 355ML||750ml|9.99|-1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080686001102|JIM BEAM BOURBON 80 1.75L|JIM BEAM BOURBON 80 1.75L||750ml|28.99|-6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
@@ -3950,7 +3950,7 @@ VEGA2013|VEGA VALBUENA 2013 750ML|VEGA VALBUENA 2013 750ML|2013|750ml|199.99|0|h
 088603011883|VERY RASPBERRY ROSE WINE 750ML|VERY RASPBERRY ROSE WINE 750ML||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 088603011890|VERY WATERMELON ROSE WINE 750ML|VERY WATERMELON ROSE WINE 750ML||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753050221|VEUVE CLICQUOT BRUT CHAMPAGNE 375ML|VEUVE CLICQUOT BRUT CHAMPAGNE 375ML||750ml|44.99|-19|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-081753835965|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML||750ml|54.99|80|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+081753835965|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML|VEUVE CLICQUOT BRUT YELLOW LABEL GIFT BOX 750ML||750ml|54.99|79|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 081753810979|VEUVE CLICQUOT BRUT 1.5L CS|VEUVE CLICQUOT BRUT 1.5L CS||750ml|154.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753826130|VEUVE CLICQUOT RICH 750ML|VEUVE CLICQUOT RICH 750ML||750ml|67.99|18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 081753827922|VEUVE CLICQUOT RICH ROSE 750ML|VEUVE CLICQUOT RICH ROSE 750ML||750ml|71.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -6064,7 +6064,7 @@ JARVIS 2016|JARVIS CABARNET SAUVIGNON 750ML|JARVIS CABARNET SAUVIGNON 750ML||750
 088076188730|TALISKER SCOTCH SMALL MALT 11YR|TALISKER SCOTCH SMALL MALT 11YR||750ml|11|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000009492|TALISKER SPECIAL RELEASE 2023 SINGLE MALT 750ML|TALISKER SPECIAL RELEASE 2023 SINGLE MALT 750ML|2023|750ml|114.98|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000009494|DEWAR'S 200ML|DEWAR'S 200ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-081753050207|VEUVE CLICQUOT BRUT YELLOW LABEL 750ML (NO BOX)|VEUVE CLICQUOT BRUT YELLOW LABEL 750ML (NO BOX)||750ml|54.99|-35|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+081753050207|VEUVE CLICQUOT BRUT YELLOW LABEL 750ML (NO BOX)|VEUVE CLICQUOT BRUT YELLOW LABEL 750ML (NO BOX)||750ml|54.99|-36|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 081753811020|DOM PERIGNON BRUT 750ML (NO BOX) CS|DOM PERIGNON BRUT 750ML (NO BOX) CS||750ml|279.99|16|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000009497|MOET&CHANDON BRUT IMPERIAL (NO BOX) 750ML|MOET&CHANDON BRUT IMPERIAL (NO BOX) 750ML||750ml|39.99|18|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 210000009498|ARDBERG SINGLE MALT SCOTCH TRAIGH BHAN 19 YR BATCH 5 750ML|ARDBERG SINGLE MALT SCOTCH TRAIGH BHAN 19 YR BATCH 5 750ML||750ml|279.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -7537,7 +7537,7 @@ PAHLMEYER|PAHLMEYER RED 1.5L 2021|PAHLMEYER RED 1.5L 2021|2021|750ml|499.99|0|ht
 210000012417|TWO DRUMS MAUI PINEAPPLW 4 PACK|TWO DRUMS MAUI PINEAPPLW 4 PACK||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012418|TWO DRUMS FLORIDA ORANGE 4 PACK|TWO DRUMS FLORIDA ORANGE 4 PACK||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012419|TWO DRUMS ORIGINAL LIME|TWO DRUMS ORIGINAL LIME||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-210000012420|TEREMANA BLANCO 1L|TEREMANA BLANCO 1L||750ml|35.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+210000012420|TEREMANA BLANCO 1L|TEREMANA BLANCO 1L||750ml|35.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012421|CROWN ROYAL MARQUIS 750ML|CROWN ROYAL MARQUIS 750ML||750ml|34.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 850064265316|MONACO PORN STAR CRUSH|MONACO PORN STAR CRUSH||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000012424|WENTE SOUTHERN HILLS CAB SAUV 750ML|WENTE SOUTHERN HILLS CAB SAUV 750ML||750ml|29.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
