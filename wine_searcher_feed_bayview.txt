@@ -1025,7 +1025,7 @@ SKU000038|CA MOMI PINOT NOIR 750ML|CA MOMI PINOT NOIR 750ML||750ml|22.99|0|https
 085000026915|CAMARENA  ANEJO TEQUILA 750ML|CAMARENA  ANEJO TEQUILA 750ML||750ml|33.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 85000017326|CAMARENA REPOSADO 750ML|CAMARENA REPOSADO 750ML||750ml|19.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 085000017302|CAMARENA REPO 1.75L|CAMARENA REPO 1.75L||750ml|44.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-85000017333|CAMARENA REPOSADO 375ML|CAMARENA REPOSADO 375ML||750ml|11.99|-23|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+85000017333|CAMARENA REPOSADO 375ML|CAMARENA REPOSADO 375ML||750ml|11.99|-24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000008829|CAMARENA REPOSADO 50ML|CAMARENA REPOSADO 50ML||750ml|2.99|24|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000016824|CAMARENA SILVER 750ML|CAMARENA SILVER 750ML||750ml|19.99|9|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 85000008812|CAMARENA SILVER 50ML|CAMARENA SILVER 50ML||750ml|2.99|48|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -4114,7 +4114,7 @@ MARANGES|XAVIER MANNOT MARANGES 1ER CRU|XAVIER MANNOT MARANGES 1ER CRU||750ml|63
 031259044095|YELLOWTAIL RED ROO 750ML|YELLOWTAIL RED ROO 750ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 89924278917|YUENGLING 12oz- 6 PACK BOTTLES|YUENGLING 12oz- 6 PACK BOTTLES||750ml|10.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 089924278962|YUENGLING 12oz- 12 PACK BOTTLE|YUENGLING 12oz- 12 PACK BOTTLE||750ml|17.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-89924278986|YUENGLING 12oz- 12 PACK CANS|YUENGLING 12oz- 12 PACK CANS||750ml|17.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+89924278986|YUENGLING 12oz- 12 PACK CANS|YUENGLING 12oz- 12 PACK CANS||750ml|17.99|5|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 89924532491|YUENGLING LAGER 16OZ CAN|YUENGLING LAGER 16OZ CAN||750ml|2.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 89924600244|YUENGLING LAGER 24OZ CAN|YUENGLING LAGER 24OZ CAN||750ml|3.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 850176001154|YUKI NO BOSHA SAKE 300ML JAPAN|YUKI NO BOSHA SAKE 300ML JAPAN||750ml|27.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -4254,7 +4254,7 @@ DELTA8PREROLL1|DELTA 8 PRE ROLL PRE ROLL|DELTA 8 PRE ROLL PRE ROLL||750ml|19.99|
 096749000074|ELIJAH CRAIG SMALL BATCH 94 PROOF 1.75L|ELIJAH CRAIG SMALL BATCH 94 PROOF 1.75L||750ml|65.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 967494|ELIJAH CRAIG SMALL BATCH 1789 50ml|ELIJAH CRAIG SMALL BATCH 1789 50ml||750ml|4.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 96749003860|OWS ELIJAH CRAIG SINGLE BARREL BARREL PROOF 750ML|OWS ELIJAH CRAIG SINGLE BARREL BARREL PROOF 750ML||750ml|89.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-084687007019|ERATH PINOT GRIS 750ML|ERATH PINOT GRIS 750ML||750ml|14.99|15|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+084687007019|ERATH PINOT GRIS 750ML|ERATH PINOT GRIS 750ML||750ml|14.99|14|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 0308211|ETRUSCA CHIANTI RISERVA ITALY(] 750ML|ETRUSCA CHIANTI RISERVA ITALY(] 750ML||750ml|14.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 850006778034|FIVE DRINKS MOSCOW MULE 4PK|FIVE DRINKS MOSCOW MULE 4PK||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 850006778041|FIVE DRINKS MARGARITA|FIVE DRINKS MARGARITA||750ml|12.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
