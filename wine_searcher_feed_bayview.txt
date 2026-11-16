@@ -711,7 +711,7 @@ AUANCHAT|AUGUSTE ANTONIN CHATEAUNEUF 750ML ITALY|AUGUSTE ANTONIN CHATEAUNEUF 750
 210000001251|BAREFOOT ROSE 3L 3L|BAREFOOT ROSE 3L 3L||750ml|19.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001252|BAREFOOT ROSE SPRITZER CAN 250ML|BAREFOOT ROSE SPRITZER CAN 250ML||750ml|2.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001253|BAREFOOT ROSE TETRA 500ML 500ML|BAREFOOT ROSE TETRA 500ML 500ML||750ml|4.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-18341151022|BAREFOOT SAUVIGNON BLANC 1.5L|BAREFOOT SAUVIGNON BLANC 1.5L||750ml|11.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+18341151022|BAREFOOT SAUVIGNON BLANC 1.5L|BAREFOOT SAUVIGNON BLANC 1.5L||750ml|11.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001255|BAREFOOT SAUVIGNON BLANC 750ML|BAREFOOT SAUVIGNON BLANC 750ML||750ml|9.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000001258|BAREFOOT SUMMER RED 250ML|BAREFOOT SUMMER RED 250ML||750ml|2.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 018341151060|BAREFOOT WHITE ZINFANDEL 1.5L|BAREFOOT WHITE ZINFANDEL 1.5L||750ml|11.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -1985,7 +1985,7 @@ SKU000333|GB CRANE CABERNET SAUVIGNON 750ML|GB CRANE CABERNET SAUVIGNON 750ML||7
 088076171459|GLENKINCHIE 12 YEAR 750ML|GLENKINCHIE 12 YEAR 750ML||750ml|62.98|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080432400623|GLENLIVET 12 375ML|GLENLIVET 12 375ML||750ml|25.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 80432400630|GLENLIVET SCOTCH 12 YR 750ML|GLENLIVET SCOTCH 12 YR 750ML||750ml|42.98|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
-080432400722|GLENLIVET 12YR  1.75L|GLENLIVET 12YR  1.75L||750ml|74.98|8|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+080432400722|GLENLIVET 12YR  1.75L|GLENLIVET 12YR  1.75L||750ml|74.98|7|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080432114926|GLENLIVET 14YR COGNAC CASK 750ML|GLENLIVET 14YR COGNAC CASK 750ML||750ml|52.98|-3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080432100783|GLENLIVET 15YR 750ML|GLENLIVET 15YR 750ML||750ml|82.98|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 080432400661|GLENLIVET 18 YR 750ML|GLENLIVET 18 YR 750ML||750ml|125.98|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -3584,7 +3584,7 @@ SKU000221|SINE QUA NON TROUVER SYRAH 750ML|SINE QUA NON TROUVER SYRAH 750ML||750
 893568000014|SLAUGHTER HOUSE WHISKY 750ML|SLAUGHTER HOUSE WHISKY 750ML||750ml|37.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 893880002710|SLINGSHOT CABERNET SAUVIGNON 750ML|SLINGSHOT CABERNET SAUVIGNON 750ML||750ml|18.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 898804009004|SLOW & LOW ROCK & RYE 750ML|SLOW & LOW ROCK & RYE 750ML||750ml|21.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-082000727606|SMIRNOFF VODKA 80 1.75 PET|SMIRNOFF VODKA 80 1.75 PET||750ml|17.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
+082000727606|SMIRNOFF VODKA 80 1.75 PET|SMIRNOFF VODKA 80 1.75 PET||750ml|17.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 082000788515|SMIRNOFF GREEN APPLE 750ML|SMIRNOFF GREEN APPLE 750ML||750ml|10.99|6|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 082000001034|SMIRNOFF APPLE 1.75L|SMIRNOFF APPLE 1.75L||750ml|19.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||https://res.cloudinary.com/lightspeed-retail/image/upload/
 082000731535|SMIRNOFF CHERRY 750ML|SMIRNOFF CHERRY 750ML||750ml|10.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
@@ -5044,7 +5044,7 @@ SOTER 1|SOTER PINOT NOIR DUNDEE HILLS|SOTER PINOT NOIR DUNDEE HILLS||750ml|0|0|h
 086785091075|DRUMSHANBO GUNPOWDER IRISH GIN 750ML|DRUMSHANBO GUNPOWDER IRISH GIN 750ML||750ml|35.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 721059003339|MASTER'S KEEP UNFORGOTTEN 750ML CWS|MASTER'S KEEP UNFORGOTTEN 750ML CWS||750ml|399.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 87113112349|ALBERT BICHOT CORTON GRAND CRU MARECHAUNDES 750ML 2019 CS|ALBERT BICHOT CORTON GRAND CRU MARECHAUNDES 750ML 2019 CS|2019|750ml|99.99|1|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
-873570|GORDONS GIN 750ML PET|GORDONS GIN 750ML PET||750ml|11.99|4|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
+873570|GORDONS GIN 750ML PET|GORDONS GIN 750ML PET||750ml|11.99|3|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 857641002890|BUZZBALLZ CHOCO CHILLER 200ML|BUZZBALLZ CHOCO CHILLER 200ML||750ml|0|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000007531|ALBERT BICHOT BEAUNE LES EPENOTTES ROUGE 2019|ALBERT BICHOT BEAUNE LES EPENOTTES ROUGE 2019|2019|750ml|49.99|0|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
 210000007532|ALBERT BICHOT CHAMBOLLE-MUSIGNY LES AMOUREUSES PREMIER CRU 2019 CS|ALBERT BICHOT CHAMBOLLE-MUSIGNY LES AMOUREUSES PREMIER CRU 2019 CS|2019|750ml|299.99|2|https://oceansliquor.com/shop/|1|Ex. tax|retail|1-3 business days||
